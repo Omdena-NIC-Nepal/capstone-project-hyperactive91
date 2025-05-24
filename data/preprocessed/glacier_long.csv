@@ -1,0 +1,77 @@
+basin,sub-basin,year,glacier_count,glacier_area,ice_volume,min_elev
+Mahakali,Mahakali,1980,130,158.5,10.91,3627
+Mahakali,Mahakali,1990,140,134.6,8.84,3657
+Mahakali,Mahakali,2000,151,120.3,7.81,3684
+Mahakali,Mahakali,2010,164,112.5,6.97,3695
+Karnali,West Seti,1980,236,210.7,11.85,3903
+Karnali,West Seti,1990,248,191.1,10.36,4032
+Karnali,West Seti,2000,259,162.8,8.5,4112
+Karnali,West Seti,2010,270,146.0,7.28,4132
+Karnali,Kawari,1980,44,42.3,2.33,3572
+Karnali,Kawari,1990,49,37.2,1.92,3572
+Karnali,Kawari,2000,49,33.5,1.72,3599
+Karnali,Kawari,2010,48,29.2,1.45,3631
+Karnali,Humla,1980,450,457.4,28.06,4025
+Karnali,Humla,1990,468,408.2,24.35,4130
+Karnali,Humla,2000,474,374.9,21.92,4249
+Karnali,Humla,2010,474,337.9,19.48,4271
+Karnali,Mugu,1980,200,164.2,8.59,4301
+Karnali,Mugu,1990,206,142.9,7.21,4350
+Karnali,Mugu,2000,206,130.2,6.44,4473
+Karnali,Mugu,2010,205,119.2,5.84,4507
+Karnali,Tila,1980,50,36.5,1.89,4061
+Karnali,Tila,1990,53,33.1,1.7,4088
+Karnali,Tila,2000,56,29.3,1.45,4098
+Karnali,Tila,2010,61,26.8,1.31,4124
+Karnali,Bheri,1980,391,474.2,33.07,4067
+Karnali,Bheri,1990,392,417.6,28.9,4071
+Karnali,Bheri,2000,400,382.4,26.35,4090
+Karnali,Bheri,2010,401,363.8,24.66,4133
+Gandaki,Kali Gandaki,1980,442,677.3,55.32,3665
+Gandaki,Kali Gandaki,1990,480,587.3,44.97,3793
+Gandaki,Kali Gandaki,2000,500,558.5,41.71,3819
+Gandaki,Kali Gandaki,2010,504,527.4,38.9,3846
+Gandaki,Seti,1980,37,88.6,9.76,3701
+Gandaki,Seti,1990,42,79.8,8.72,3701
+Gandaki,Seti,2000,47,75.5,8.42,3754
+Gandaki,Seti,2010,45,71.6,8.09,3894
+Gandaki,Marsyangdi,1980,347,632.8,53.76,3589
+Gandaki,Marsyangdi,1990,378,557.8,44.68,3653
+Gandaki,Marsyangdi,2000,385,535.9,42.73,3639
+Gandaki,Marsyangdi,2010,384,509.0,39.97,3651
+Gandaki,Budhi Gandaki,1980,224,447.0,39.05,3159
+Gandaki,Budhi Gandaki,1990,234,384.6,31.72,3273
+Gandaki,Budhi Gandaki,2000,241,370.8,30.47,3274
+Gandaki,Budhi Gandaki,2010,242,348.8,28.53,3282
+Gandaki,Trishuli,1980,143,279.8,27.68,3517
+Gandaki,Trishuli,1990,160,237.9,23.0,3600
+Gandaki,Trishuli,2000,168,224.3,21.53,3640
+Gandaki,Trishuli,2010,165,207.6,19.26,3650
+Koshi,Indrawati,1980,33,23.9,1.17,4535
+Koshi,Indrawati,1990,37,20.1,0.92,4574
+Koshi,Indrawati,2000,37,18.4,0.82,4757
+Koshi,Indrawati,2010,37,16.4,0.73,4843
+Koshi,Sun Koshi,1980,30,72.6,6.57,3873
+Koshi,Sun Koshi,1990,34,62.4,5.37,3962
+Koshi,Sun Koshi,2000,35,59.7,4.98,3925
+Koshi,Sun Koshi,2010,39,52.6,4.16,4047
+Koshi,Tama Koshi,1980,77,120.3,11.58,4268
+Koshi,Tama Koshi,1990,87,101.7,9.56,4316
+Koshi,Tama Koshi,2000,86,94.2,8.84,4342
+Koshi,Tama Koshi,2010,85,84.4,7.89,4363
+Koshi,Likhu,1980,25,32.7,2.25,4109
+Koshi,Likhu,1990,26,27.2,1.76,4117
+Koshi,Likhu,2000,27,25.2,1.58,4300
+Koshi,Likhu,2010,27,23.0,1.42,4357
+Koshi,Dudh Koshi,1980,258,534.4,55.65,4336
+Koshi,Dudh Koshi,1990,276,455.9,46.37,4367
+Koshi,Dudh Koshi,2000,282,426.7,43.2,4367
+Koshi,Dudh Koshi,2010,287,391.2,39.2,4367
+Koshi,Arun,1980,84,208.2,22.0,4020
+Koshi,Arun,1990,99,177.8,18.07,4079
+Koshi,Arun,2000,104,166.0,16.75,4129
+Koshi,Arun,2010,108,149.2,14.98,4200
+Koshi,Tamor,1980,229,506.9,59.87,4081
+Koshi,Tamor,1990,247,449.0,51.16,4116
+Koshi,Tamor,2000,258,422.5,47.75,4144
+Koshi,Tamor,2010,262,385.9,42.26,4161
