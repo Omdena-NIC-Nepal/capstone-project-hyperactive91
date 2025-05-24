@@ -15,3 +15,5 @@ scikit-learn
 transformers
 textblob
 summa
+plotly
+pathlib
