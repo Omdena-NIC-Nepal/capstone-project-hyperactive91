@@ -5,7 +5,7 @@ import pandas as pd
 from pathlib import Path
 
 # --- Load Saved Model ---
-def load_model(model_name, folder="../data/preprocessed"):
+def load_model(model_name, folder="data/preprocessed"):
     path = Path(folder) / model_name
     try:
         model = joblib.load(path)
@@ -32,7 +32,7 @@ def predict_batch(model, df):
         raise RuntimeError(f"Batch prediction failed: {e}")
 
 # --- Load Precomputed Forecast CSV (e.g., 2020–2050) ---
-def load_forecast_csv(name: str, folder="../data/preprocessed"):
+def load_forecast_csv(name: str, folder="data/preprocessed"):
     path = Path(folder) / name
     if not path.exists():
         raise FileNotFoundError(f"Forecast file not found: {path}")
