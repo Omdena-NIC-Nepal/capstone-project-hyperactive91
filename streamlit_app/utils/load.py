@@ -1,7 +1,11 @@
 import pandas as pd
-import numpy as np
+from pathlib import Path
+import rarfile
 
 def load_data():
-    df=pd.read_csv('../data/dailyclimate.csv')
+    df = pd.read_csv(
+            Path("../data/dailyclimate.csv.gz"),
+            compression="gzip",
+            dayfirst=True
+    )
     return(df)
-    

@@ -55,7 +55,7 @@ def render_summary_text(original_text, summary_text):
 
 # -------------------- Streamlit UI --------------------
 def main():
-    st.title("Text Summarization")
+    st.title("NLP Text Summarization")
     option = st.radio("Choose Input Method", ["User Input", "From Files"])
 
     if option == "User Input":
