@@ -21,7 +21,7 @@ def summarize_text_with_summa(text, ratio=0.3):
 # -------------------- Load Files from Articles Folder --------------------
 @st.cache_data
 def load_article_texts():
-    folder_path = r"data\articles"
+    folder_path = os.path.join("data", "articles")  # cross-platform
     files_dict = {}
 
     if not os.path.exists(folder_path):
