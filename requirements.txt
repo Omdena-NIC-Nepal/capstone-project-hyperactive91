@@ -18,3 +18,4 @@ summa
 plotly
 pathlib
 streamlit
+pattern
