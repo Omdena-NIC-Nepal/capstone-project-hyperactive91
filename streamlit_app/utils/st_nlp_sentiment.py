@@ -1,5 +1,4 @@
 import os
-import pickle
 import logging
 import streamlit as st
 from textblob import TextBlob
@@ -9,8 +8,7 @@ import pandas as pd
 logging.basicConfig(level=logging.INFO)
 
 # --- CONFIGURATION ---
-ARTICLE_DIR = r"data\articles"
-
+ARTICLE_DIR = os.path.join("data", "articles")
 
 # Load article files from folder
 def get_article_files(article_dir):
