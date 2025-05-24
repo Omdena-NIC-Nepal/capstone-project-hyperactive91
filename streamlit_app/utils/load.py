@@ -1,6 +1,5 @@
 import pandas as pd
 from pathlib import Path
-import rarfile
 
 def load_data():
     df = pd.read_csv(
