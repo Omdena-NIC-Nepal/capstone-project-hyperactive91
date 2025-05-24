@@ -34,11 +34,11 @@ def render():
     # --- Loaders ---
     @st.cache_data
     def load_main():
-        return pd.read_csv("../data/preprocessed/merged_scaled.csv").dropna()
+        return pd.read_csv("data/preprocessed/merged_scaled.csv").dropna()
 
     @st.cache_data
     def load_glacier():
-        return pd.read_csv("../data/preprocessed/glacier_features.csv").dropna()
+        return pd.read_csv("data/preprocessed/glacier_features.csv").dropna()
 
     # === CLASSIFICATION ===
     if task_type == "Classification":
@@ -91,7 +91,7 @@ def render():
             st.success(f" Accuracy: {acc:.3f}")
             st.text(classification_report(y_test, y_pred, zero_division=0))
             st.bar_chart(pd.Series(model.feature_importances_, index=X.columns).sort_values(ascending=False).head(10))
-            joblib.dump(model, f"../data/preprocessed/interactive_model_{target_col}.joblib")
+            joblib.dump(model, f"data/preprocessed/interactive_model_{target_col}.joblib")
 
     # === REGRESSION ===
     else:
@@ -126,4 +126,4 @@ def render():
             r2 = r2_score(y_test, y_pred)
             st.success(f"RMSE: {rmse:.2f} | MAE: {mae:.2f} | R²: {r2:.3f}")
             st.bar_chart(pd.Series(model.feature_importances_, index=X.columns).sort_values(ascending=False).head(10))
-            joblib.dump(model, f"../data/preprocessed/interactive_regressor_{target_col}.joblib")
+            joblib.dump(model, f"data/preprocessed/interactive_regressor_{target_col}.joblib")

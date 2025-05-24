@@ -9,7 +9,7 @@ import pandas as pd
 logging.basicConfig(level=logging.INFO)
 
 # --- CONFIGURATION ---
-ARTICLE_DIR = r"..\data\articles"
+ARTICLE_DIR = r"data\articles"
 
 
 # Load article files from folder

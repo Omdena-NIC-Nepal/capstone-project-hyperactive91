@@ -21,7 +21,7 @@ def summarize_text_with_summa(text, ratio=0.3):
 # -------------------- Load Files from Articles Folder --------------------
 @st.cache_data
 def load_article_texts():
-    folder_path = r"C:\Users\Wlink\omdena\Assignment\Final_project\capstone-project-hyperactive91\data\articles"
+    folder_path = r"data\articles"
     files_dict = {}
 
     if not os.path.exists(folder_path):
