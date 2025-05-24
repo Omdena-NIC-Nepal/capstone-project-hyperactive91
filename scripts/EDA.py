@@ -3,11 +3,16 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+from pathlib import Path
+import os
 
 # %%
-df=pd.read_csv('./data/dailyclimate.csv')
+df = pd.read_csv(
+            Path("../data/dailyclimate.csv.gz"),
+            compression="gzip",
+            dayfirst=True
+)
 df.info()
-
 
 # %%
 df.isnull().sum()
@@ -86,7 +91,7 @@ sns.violinplot(
     legend=False            # Hue = x, no extra legend needed
 )
 
-plt.title('Distribution of Mean Temperature by Season', fontsize=14)
+plt.title('Mean Temperature Season-wise', fontsize=14)
 plt.xlabel('Season', fontsize=12)
 plt.ylabel('Temperature (°C)', fontsize=12)
 plt.grid(True, linestyle='--', alpha=0.5)
