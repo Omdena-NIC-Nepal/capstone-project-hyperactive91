@@ -1,0 +1,607 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/319686998
+ CLIMATE CHANGE AND ITS IMPACTS IN NEPAL
+ Article · September 2016
+ CITATION
+ 1
+ 2 authors, including:
+ Regan Sapkota
+ Greenhood Nepal
+ 6 PUBLICATIONS   2 CITATIONS   
+SEE PROFILE
+ Some of the authors of this publication are also working on these related projects:
+ Role of Local Institutions in Improving Climate Adaptation View project
+ Master's Degree Term Papers View project
+ All content following this page was uploaded by Regan Sapkota on 13 September 2017.
+ READS
+ 7,393
+ The user has requested enhancement of the downloaded file.
+CLIMATE CHANGE AND ITS IMPACTS IN NEPAL 
+A term paper report 
+Submitted to 
+CENTRAL DEPARTMENT OF ENVIRONMENTAL SCIENCE 
+Institute of Science and Technology 
+Tribhuvan University 
+Kirtipur, Kathmandu, Nepal 
+In partial fulfillment of the requirements for the award of Degree of M.Sc. in 
+Environmental Science 
+Submitted by 
+Regan Sapkota 
+Roll No.: 3 
+T.U. Registration No. : 5-2-37-719-2010 
+Date: 9/18/2016 
+ii 
+ 
+                        
+       TRIBHUVAN UNIVERSITY                  Tel No: 4332147 
+Central Department of Environmental Science 
+                                                 Kritipur, Kathmandu, Nepal 
+  
+                                                                                                       Date: 9/18/2016 
+ 
+LETTER OF RECOMMENDATION 
+ 
+I, hereby, certify that the term paper report entitled “CLIMATE CHANGE AND ITS 
+IMPACTS IN NEPAL” submitted by Mr. Regan Sapkota submitted to the Central 
+Department of Environmental Science is based on scientific investigations carried out by the 
+student under my supervision. 
+ 
+ 
+ 
+________________ 
+(Supervisor)  
+Prof. Kedar Rijal, PhD 
+Central Department of Environmental Science 
+Tribhuvan University 
+Kirtipur, Kathmandu, Nepal 
+                        
+iii 
+ 
+                        
+       TRIBHUVAN UNIVERSITY                  Tel No: 4332147 
+Central Department of Environmental Science 
+                                                 Kritipur, Kathmandu, Nepal 
+  
+                                                                                                       Date: 9/18/2016 
+ 
+LETTER OF APPROVAL 
+  
+We hereby certify that the term paper report “CLIMATE CHANGE AND ITS IMPACTS 
+IN NEPAL” submitted by Mr. Regan Sapkota to the Central Department of Environmental 
+Science has been accepted as the requirement for the partial fulfillment of Masters in 
+Environmental Science. The report is based on the work of the student under the supervision 
+of Prof. Dr. Kedar Rijal. 
+. 
+  
+ 
+ 
+___________________                                                ________________ 
+Prof. Kedar Rijal, PhD         External Examiner 
+Supervisor and Head of Department                                                  
+CDES, Tribhuvan University          
+Kirtipur, Kathmandu, Nepal 
+ 
+ACKNOWLEDGEMENTS 
+First of all, I would like to acknowledge all the authors of the papers I reviewed of this study. 
+This study wouldn’t be complete without their research. 
+My sincere gratitude goes to my supervisor and the Head of the Department, Prof. Dr. Kedar 
+Rijal for his continuous support, guidance and encouragement from the beginning until the 
+completion of my term paper. I owe my gratitude to all the staffs of CDES, TU. 
+A heart full of thank goes to my seniors and friends who have continuously helped me and 
+provided me a moral and technical support which was very necessary for this study. 
+Lastly, I would like to thank all those who directly or indirectly helped me in the course of 
+study and report preparation. 
+Regan Sapkota 
+regan.sapkota2@gmail.com 
+September, 2016 
+iv 
+ABSTRACT 
+Climate change may be caused by both natural and anthropogenic forcing, but at present 
+time unsustainable anthropogenic activities and enormous greenhouse gases (GHGs) 
+emissions are causing erratic climate change. The Earth's average temperature has risen by 
+1.5°F over the past century, and is projected to rise another 0.5°F to 8.6°F over the next 
+hundred years. Nepal is one of the least developed country in the world and was ranked as 
+the 4th most vulnerable country due to the impacts of climate change by Maplecroft in 2010, 
+but, in contrary, it is one of the least contributor to global GHGs emissions, emitting 0.027% 
+of global total. Lack of adequate fund for adaptation makes Nepal and its people very 
+vulnerable to climate change. This study is intended to study the impacts of climate change 
+that Nepal might face in future. The study was generally based on the secondary data like 
+journal papers, reports and others. Nepal lies in Hindukush Himalaya region and IPCC 4th 
+Assessment report suggests region as a “white spot” due to the lack of adequate research. 
+Even though compressing limited number of research, climate change is supposed to cause 
+enormous negative impacts in this region and Nepal. It was found that the temperature of 
+Nepal is warming at the rate faster than that of the global average. Review of many papers 
+shows that vulnerability of Nepal may be alleviated by the fact of country’s fragile 
+ecosystem, uneven topography, high dependency on agriculture, hydroelectricity and low 
+GPD. It was seen that climate impacts many key sectors of Nepal like agriculture, 
+hydroelectricity, food security, tourism and many others. Climate change is expected to 
+cause many other climate induced hazard like flood, drought, landslides. Thus, these impact 
+will directly impacts the economy of the country and hence the livelihood of the people. 
+Keywords: Climate change, climate induced disasters, Green House Gases, impacts, IPCC, 
+vulnerable 
+v 
+vi 
+ 
+TABLE OF CONTENTS 
+LETTER OF RECOMMENDATION .................................................................................. ii 
+LETTER OF APPROVAL ................................................................................................... iii 
+ACKNOWLEDGEMENTS ................................................................................................. iv 
+ABSTRACT .......................................................................................................................... v 
+TABLE OF CONTENTS ..................................................................................................... vi 
+ABBREVIATIONS AND ACRONYMS ........................................................................... vii 
+CHAPTER I .......................................................................................................................... 1 
+INTRODUCTION ............................................................................................................. 1 
+1.1 Background ............................................................................................................. 1 
+1.2 Statement of the Problem ........................................................................................ 3 
+CHAPTER II ......................................................................................................................... 5 
+MATERIALS AND METHODS ...................................................................................... 5 
+CHAPTER III ........................................................................................................................ 5 
+RESULTS AND DISCUSSIONS ..................................................................................... 5 
+3.1 Temperature and Precipitation Projections of Nepal .......................................... 5 
+3.2 Impacts on Agriculture ....................................................................................... 6 
+3.3 Impacts on Livestock Production ........................................................................ 7 
+3.4 Impacts on Hydroelectricity ................................................................................ 8 
+3.5 Impacts on Livelihood ........................................................................................ 8 
+3.6 Impacts on Economy ........................................................................................... 9 
+3.7 Climate Induced Disasters .................................................................................. 9 
+CHAPTER IV ..................................................................................................................... 13 
+CONCLUSION ................................................................................................................... 13 
+References .............................................................................................................................. I 
+ABBREVIATIONS AND ACRONYMS 
+AR5  
+CBS  
+CDES  
+CO2  
+Ex.  
+GDP  
+GHGs  
+IDS  
+INGO  
+IPCC  
+LAPA  
+MoPE   
+M.Sc.  
+NAPA  
+NGO  
+NPC  
+REDD  
+TU  
+UNCBD  
+Assessment Report 5 
+Central Bureau of Statistics 
+Central Department of Environmental Science 
+Carbon Dioxide 
+Example 
+Gross Domestic Products 
+Green House Gases 
+Integrated Development Society 
+International Non-governmental Organization 
+Intergovernmental Panel on Climate Change 
+Local Adaptation Plan of Action 
+Ministry of Population and Environment 
+Masters in Science 
+National Adaptation Programmes of Action 
+Non-governmental Organization 
+National Planning Commission 
+Reducing Emissions from Deforestation and Forest 
+Degradation 
+Tribhuvan University 
+United Nations Convention on Biodiversity 
+United Nations Convention to Combat Desertification 
+UNCCD   
+vii 
+UNFCCC  
+United Nations Framework Convention on Climate Change 
+US$  
+United States Dollar 
+viii 
+CHAPTER I 
+INTRODUCTION 
+1.1 Background 
+Intergovernmental Panel on Climate Change fourth assessment report defines climate 
+change as a change in the state of the climate that can be identified by changes in the mean 
+and/or the variability of its properties, and that persists for an extended period, typically 
+decades or longer. Climate change may be due to natural internal processes or external 
+forcing such as modulations of the solar cycles, volcanic eruptions, and persistent 
+anthropogenic changes. United Nations Framework Convention on Climate Change 
+(UNFCCC) defines climate change as: “a change of climate which is attributed directly or 
+indirectly to human activity that alters the composition of the global atmosphere and which 
+is in addition to natural climate variability observed over comparable time periods.  
+Greenhouse gases is considered as the major force in causing the accelerated climate change. 
+Anthropogenic greenhouse gas emissions have increased since the pre-industrial era, driven 
+largely by unsustainable anthropocentric activities, and are now higher than ever. Their 
+effects, together with those of other anthropogenic drivers are extremely likely to have been 
+the dominant cause of the observed warming since the mid-20th century. Earth's average 
+temperature has risen by 1.5°F over the past century, and is projected to rise another 0.5 to 
+8.6°F over the next hundred years. Small changes in the average temperature of the planet 
+can translate to large and potentially dangerous shifts in climate and weather (US EPA, n.d.).  
+Rising global temperatures cause significant impacts on weather and climate. Many places 
+have seen changes in rainfall, resulting in more floods, droughts, or intense rain, as well as 
+some place has witnessed more frequent and severe heat waves. The planet's oceans and 
+glaciers have also experienced the impacts of changing climate; oceans are warming and 
+becoming more acidic, ice caps are melting, and sea levels are rising. As these and other 
+changes become more pronounced in the coming decades, they will likely present challenges 
+to our society and our environment (US EPA, n.d.). 
+1 
+Nexus between climate change and its impacts on Nepal 
+Nepal is a land-locked country located in South Asia between India and China, at 28° North 
+latitude and 84° east longitude. It has an extremely varied and complex climate, driven by 
+the uneven terrain and regional weather systems. Within a few hundred kilometers, the 
+country’s elevation changes from the lowland of 70m in the Terai to the top of the world, 
+Mount Everest (8,848m). Nepal is considered as one of the top ten countries most likely to 
+be impacted by global climate change (WFP, 2009) but is one of the least contributors to the 
+emissions of greenhouse gases (GHGs), emits only 0.027% of global share (INDC, 2016). 
+Nepal is one of the least developed countries of the world having GDP of mere US $562 
+(CBS, 2012) with around 25% of the total population living under poverty line as of US$ 
+1.25 a day (NPC, 2010). Nepal economy is highly dependent upon agricultural sector 
+(contributes about 38% of the country GDP), and supports more than 70% of the country 
+population (CBS, 2012). In addition, Nepal ranks 145 on the Human Development Index. 
+All these facts makes Nepal very vulnerable to climate change (INDC, 2016). 
+Data on trends of Nepal from 1975 to 2005 showed that temperature rise by 0.06°C annually 
+whereas mean rainfall has significantly decreased on an average of 3.7 mm (-3.2%) per 
+month per decade. Under various climate change scenarios, mean annual temperatures are 
+projected to increase between 1.3-3.8°C by the 2060s and 1.8-5.8°C by the 2090s. Whereas, 
+annual precipitation is projected to reduce in a range of 10 to 20% across the country (INDC, 
+2016). The temperature in the Himalayas, however, is increasing at a faster rate, and this has 
+serious impacts on the country’s glacial lakes (Raut, 2004). According to Nepal’s second 
+communication report, 2014; overall seasonal maximum temperature in the country is found 
+to have the largest increase of 4.5˚C in spring and smallest increase of 3.3˚C in summer, 
+whereas minimum temperature in the country is found to have the largest increase of 5.4˚C 
+in winter and smallest increase of 3.4˚C in summer by the end of the 21st century. PRECIS 
+projection found that annual precipitation will decrease by 2% of the baseline amount by 
+2020s. However, it will increase by 6% and 12% of the baseline by 2050s and 2080s 
+(MoSTE, 2014). 
+2 
+Legal framework 
+United Nations Framework Convention on Climate Change (UNFCCC) is the focal body of 
+UN for climate change. Nepal signed the UNFCCC on 12 June 1992; it was ratified on 2 
+May, 1994 and entered into force on 31 July, 1994. Nepal’s Ministry of Population and 
+Environment (MOPE) is the focal point for the UNFCCC whereby it coordinates climate 
+related activities in the country. 
+Key Policy Interventions/Submission by Nepal 
+• Climate Change Council, 2009, chaired by the Prime Minister 
+• Climate Change Management Division, 2010, MoEnv 
+• National Adaptation Programme of Action, 2010 
+• Climate Change Policy, 2011 
+• Climate Resilient Planning Tool , 2011: NPC 
+• Local Adaptation Plan of Action (LAPA), November 2011 
+• Intended Nationally Determined Contributions, 2016 
+• National Adaptation Plans is ongoing 
+The Government constituted the Climate Change Council under the chairpersonship of the 
+Prime Minister in 2009, endorsed the Climate Change Policy in 2011, adopted the National 
+Adaptation Programme of Action (NAPA) in 2010 and framework for Local Adaptation 
+Plan of Actions in 2011. In 2010 a Climate Change Management Division under the Ministry 
+of Environment (currently Ministry of Population and Environment) was established and 
+two years later the Climate Change Budget Code was approved.  Adding to this, the National 
+Planning Commission prepared a tool for climate resilient planning which mainstreams 
+adaptation to climate change into the planning process. 
+1.2 Statement of the Problem 
+Climate is changing at an unprecedented rate and this is highly impacting people of Nepal 
+as well as the economy of the country. Nepal’s low resilient capacity, lack of adequate fund 
+for adaptation makes Nepal and its people very vulnerable to climate change. Adding to this, 
+it is observed that climate change impacts largely on agriculture, tourism, hydroelectricity, 
+economy, livelihood and might cause many climate induced disaster like GLOFs, landslide, 
+3 
+flood, drought, epidemic. Thus, this study is intended to study the impacts that Nepal might 
+face as an effect of climate change in future. This paper might be helpful to develop certain 
+remedial plan to adapt or mitigate those situations. 
+1.3 Objectives 
+General Objective:  
+To study the impacts of climate change in Nepal. 
+Specific objective: 
+• To study the impacts of climate change by sectoral basis in Nepal 
+4 
+CHAPTER II 
+MATERIALS AND METHODS 
+This study was generally based on the secondary data. Many journal articles published on 
+the international journal, few reports and some authorized web page were critically 
+reviewed. Syntheses have been drawn after reviewing those papers in order to document 
+nexus and the impacts of climate change in Nepal.  
+CHAPTER III 
+RESULTS AND DISCUSSIONS 
+Impacts of climate change is uncertain. Nepal lies in the central part of Hindukush-Himalaya 
+region. IPCC's AR4 designated this region a "white spot" because of the limited scientific 
+studies. Meanwhile, the number of researchers we have till now suggests that few positive 
+impacts of changing climate might be seen in some places, but, in the long run in most of 
+the places, the negative impacts is projected to be dominant. Some of the impacts of climate 
+change that Nepal is facing and might be facing in future are discussed below. 
+3.1 
+Temperature and Precipitation Projections of Nepal 
+According to the study done Nepal Climate Vulnerability Study Team (NCVST) 2009, the 
+projection of climate change in Nepal is given below: 
+• Global circulation model (GCM) projections indicate that the temperature over Nepal 
+will increase between 0.5ºC and 2.0ºC with a multi-model mean of 1.4ºC, by the 
+2030s and between 3.0ºC and 6.3ºC, with a multi-model mean of 4.70C, by the 2090s. 
+GCM outputs suggest that extremely hot days (the hottest 5% of days in the period 
+from 1970 to 1999) are projected to increase by up to 55% by the 2060s and up to 
+70% by the 2090s. 
+• GCM outputs suggest that extremely hot nights (the hottest 5% of nights in the period 
+from 1970 to 1999) are projected to increase by up to 77% by the 2060s and 93% by 
+the 2090s. 
+5 
+• GCMs project a wide range of precipitation changes, especially during the monsoon: 
+from a decrease of 14% to an increase of 40% by the 2030s and from a decrease of 
+52% to an increase of 135% by the 2090s. 
+3.2 
+Impacts on Agriculture 
+The agricultural sector accounts for around three quarters of employment and around one
+third of Gross Domestic Product (GDP) in Nepal. The sector is predominantly made up of 
+small-scale farming and much of this is dependent upon monsoon natural rainfall. 
+Agriculture is considered extremely sensitive to climate change. Climate change might 
+reduce the amount of the desirable crops while on the others hand encourages pest and weed 
+proliferation. Agriculture in Nepal is highly vulnerable to climate change due to its rugged 
+terrain with steep topography, tectonically active geology and related risks of the natural 
+disasters. Large proportion of marginal farmers with small landholding, limited irrigation 
+availability, low income level, limited institutional capacity, and greater dependency on 
+natural resources increase the degree of vulnerability (Regmi and Adhikari, 2007; World 
+Bank, 2008).  
+Farmers are likely to face three types of costs from climate change, namely, direct impact 
+costs, indirect impact costs, and adaptation costs (Pant, 2011). 
+• Direct impacts costs includes the cost of effects of climate change on crop 
+production, livestock production, and risks of natural hazards. 
+• Indirect impacts costs includes the cost of effect of climate change on socioeconomic 
+conditions and lost opportunities. 
+• Adaptation costs includes the cost incurred to keep themselves away from or 
+minimize the negative effects of climate change. 
+A number of additional potential effects from climate change are highlighted, including 
+higher flood risks, enhanced soil erosion and changes in the range/prevalence of pests and 
+diseases – these would all be likely to increase impacts to the agricultural sector (IDS-Nepal 
+et al., 2014). Study shows that increase in temperature has positive impacts on the production 
+of rice. According to MoPE, 2004; rice production may increase by 0.09% to 7% in the case 
+when temperature is increased up to 4°C and precipitation is increased by 20%. The analysis 
+6 
+found potentially high impacts in the Terai region, especially for rice and wheat production, 
+but a varied pattern in the hills and mountains. Assuming that the projected loss of rice and 
+wheat yields in Terai region, the climate change is likely to reduce food production in Nepal. 
+Everything else remaining the same, the national loss in food production is expected to be 
+5.3% in 2020s, 3.5% in 2050s and 12.1% in 2080s. The loss of food grain thus accounts to 
+435 thousand metric tons in 2020s, 302 thousand metric tons in 2050s and 1040 thousand 
+metric tons in 2080s. By the 2070s, net agricultural losses in Nepal are estimated to be the 
+equivalent per year of around 0.8% of current GDP, or US$140 million/year in current 
+prices. The impacts will be much more severe in years of extreme rainfall variability. 
+However, it is to be noted that increase in maximum temperature different effect in 
+mountainous region than that of Terai (IDS Nepal et al, 2014). 
+On the other hand climate change is making the situation of the food security even worse. 
+Climate change have affected production, processing, consumption and distribution of food 
+either directly or indirectly. Thus, plays a significant role in the alteration of the personal 
+hygiene and human health by increased activities of the pathogens (Pant, 2012). 
+3.3 
+Impacts on Livestock Production 
+There is a growing concern on the effects of climate change on livestock production. Climate 
+change can have positive as well as negative impacts on livestock production. On positive 
+aspect, rise in temperature may result into more greenery and pasture land, benefiting 
+livestock production in high mountains. However, opinions are divided. Several studies (e.g. 
+Kabubo-Mariara, 2009, Hertel and Rosch, 2010) show that climate change adversely affects 
+livestock and poultry production. Kabubo-Mariara (2009) argues that livestock production 
+is highly sensitive to climate change. 
+Climate change also increases mortality and morbidity of animals particularly from the 
+climate sensitive infectious diseases (Patz et al., 2005b). Increases in zoonotic diseases 
+among the animals also increase the risks of transmission of such diseases in human beings. 
+Increased temperature and relative humidity is said to increase the risks of aflatoxin 
+development in feedstuffs whereby increasing the risks of poisoning among animals (Pant, 
+2011). Moreover, it is said that climate change increases the costs of veterinary medicines 
+7 
+in livestock and poultry production. In summary, as a result of climate change, Nepalese 
+farmers have to bear loss from the livestock production. 
+3.4 
+Impacts on Hydroelectricity 
+Water is critical for Nepal’s power production as hydroelectric plants provide around 90% 
+of total electricity (IDS-Nepal, 2014). Rainfall has a major influence on electricity 
+generation. During the dry season, river flows are insufficient to operate all plants, which 
+results in high levels of planned interruptions. An analysis of the impact of climate variability 
+on electricity production (and the impact of planned interruptions) indicates that economic 
+costs could be equivalent to 0.1% of GDP per year on average, and 0.3% in very dry years. 
+On the other hands, hydroelectric plants are also subject to the risks of floods including, 
+GLOFs in some locations. For example a multi-million dollar hydropower facility was lost 
+in 1985 due to a GLOF event and there have been more recent losses of micro hydro plants 
+from floods (IDS Nepal et al., 2014). 
+Thus, for the country like Nepal which is highly dependent on the hydroelectricity for power 
+generation, climate change is considered as curse in the long run. Many reports says that, 
+due to glacier melting the discharge in the river will increase for certain period of time and 
+that particular  time might be fruitful for the electricity generation. But, if we consider long 
+run, water discharge level is supposed to decrease after 2050, thus it will be hard for Nepal 
+to extract high amount of electricity from running water. Many other climate induced 
+disaster like GLOF, flood, drought, landslides, erosions are also supposed to cause negative 
+impacts on hydroelectricity generation (IDS Nepal et al., 2014).  
+3.5 
+Impacts on Livelihood 
+Climate change impacts will affect Nepal through a number of pathways, including disasters, 
+hydropower, irrigation, and domestic water usage. This might lead to the change in 
+livelihood of people. Some people migrate to other place for better livelihood. While some 
+others might change their habits to adapt to the changing climate, some people have changed 
+their cropping systems or patterns. Few case studies done by IDS Nepal shows that, there is 
+increase in the frequency of occurrence of hailstorm in Kaski district while on the other hand, 
+west Rapti river side have witness high number of floods in last decade. Meanwhile, in 
+Mustang a decline in the productivity of buckwheat over the last decade was seen. The above 
+8 
+three case studies from different part of Nepal can be an example on how climate change is 
+affecting different communities of the country. Nepal has suffered from the impacts of 
+increased frequency of extreme weather events, such as landslides, floods and droughts 
+resulting in the loss of human lives as well as high economic costs and social disputes. The 
+way of living has been changed by the impacts of climate change. 
+About 1/3rd of working force of Nepal is dependent upon agriculture as their major 
+occupation to sustain their livelihood. But as discussed above agriculture is very sensitive to 
+climate change. The negative impacts of climate change on agriculture might largely affect 
+the economy and hence the livelihood of the people. Many people are also dependent upon 
+tourism sector to sustain their livelihood, but for mountainous country like Nepal, climate 
+change might cause many adverse impacts in tourism sector which might ultimately affect 
+the livelihood of the people who are dependent upon the tourism sector to sustain their 
+livelihood. 
+3.6 
+Impacts on Economy 
+Current climate variability and extreme events lead to major economic costs in Nepal. These 
+are dominated by floods, soil erosion, droughts but also include rainfall variability on 
+agriculture. Low seasonal river flows reduces hydroelectricity generation which impacts 
+greatly on country’s economy. The 2013 study on Economic Impact Assessment of Climate 
+Change in Key Sectors (agriculture, hydropower and water-induced disasters) has estimated 
+direct cost of current climate variability and extreme events equivalent to 1.5 to 2% of 
+current GDP per year (approximately USD 270-360 million per year in 2013 prices) and 
+much higher in extreme years, rising to 5% or more. This is high by international levels 
+(IDS-Nepal et al., 2014). An indicative analysis of the impacts of climate change on water
+induced disasters at the national level estimates that the additional average expected annual 
+direct cost could be equivalent to 1.1% per year of current GDP by mid-century, with an 
+upper estimate of almost 3% per year.  
+3.7 
+Climate Induced Disasters 
+Climate change not only affects agriculture, livestock, tourism, hydroelectricity, livelihood 
+and economy. It is supposed to affect almost every sector and people from every walk of the 
+life, either directly or indirectly. Besides direct impacts of direct of climate change there is 
+9 
+many other indirect impacts of climate change that might affect Nepal and its people 
+severely. Climate induced disaster and their further consequences can be as the indirect 
+effect of climate. Some of the disaster that can be triggered by climate change is discussed 
+below. 
+Flood: 
+Floods in Nepal are particularly associated with summer monsoon rains, and are a feature of 
+current climate variability. The country's more than 6,000 rivers and rivulets, with a total of 
+45,000 km in length, support irrigated agriculture and other livelihoods, but also wreak 
+havoc in valleys and in the Terai when they overflow. For example the Koshi embankment 
+breach flood caused by institutional dysfunction affected 3.5 million people in Nepal and 
+India (Dixit, 2009: Shrestha et al, 2010). At the same time, the return period of a flood of a 
+certain magnitude is found to reduce significantly,  such that the flow associated with a 1
+in-10 year event could happen every few years under climate change, and a 1-in-100 year 
+event could occur every few decades (IDS-Nepal et al., 2014). In most cases, climate change 
+is projected to increase the intensity and frequency of high flows, and increase flood risks in 
+Nepal. Flood inundation is the major climate-related hazard in the country, affecting 
+property, agriculture, infrastructure (roads, bridges, communications and transmission 
+networks), business and commerce and, at worst, causing loss of life. Each major flood costs 
+the average household the equivalent of US$9,000. In a desperately poor country such as 
+Nepal, where average household annual income in 2011 was US$2,700 (using 2011 
+exchange rates), these floods are a huge financial burden. The floods also bring water-borne 
+diseases such as cholera and typhoid, putting lives at risk. This story is replicated across 
+Nepal. Between 1983 and 2010, floods have every year on average resulted in 283 deaths, 
+8000 homes destroyed and 29,000 families affected (CDKN, 2014). There are also additional 
+risks from Glacial Lake Outburst Floods (GLOFs) which can impact on communities and 
+infrastructure for considerable distances downstream. Geo-scientist have predicted that 4 
+degree Celsius increase in temperature could wipe out 70% of snow and glaciers and this 
+eventually resulting in GLOF. INDC of Nepal, 2016 stated that, in Nepal’s Himalaya, total 
+estimated ice reserve between 1977 and 2010 decreased by 29% (129 km3). The number of 
+glacier lakes increased by 11% and glaciers recede on an average by 38 km2 per year during 
+10 
+the same period. Hence, climate change has visible and pronounced impacts on snows and 
+glaciers that are likely to increase the possibilities of Glacier Lake Outburst Floods. 
+Landslides: 
+It is another climate induced hazard which are often related to extreme rainfall or flood 
+events. Landslides also have significant impacts on communities and infrastructure. Nepal 
+is a country of uneven terrain and people of hills and mountainous region are consider to be 
+vulnerable to landslides. Occurrence of landslides can be triggered by high precipitation 
+hence climate change can be significant role in increase the frequency of the precipitation 
+and hence the landslide. 
+Drought: 
+Due to climate change some part of the country might get excessive amount of rain while 
+other part might suffer from drought. Increasing temperature might trigger drought event. 
+Climate dynamics suggest that agriculture in Nepal will face immense challenges as seasonal 
+drought increases. The impact of the 2008-2009 winter droughts on farming and on local 
+food security was severe.  In that period, most monitoring stations received less than 50% of 
+normal rainfall, 30% recorded no precipitation at all and temperatures were 1-2°C above 
+average. At the national level, wheat and barley production decreased by 14.5% and 17.3% 
+respectively and the 2009 maize production was also seriously affected. At present, 40 
+districts, mostly in the West, face major food deficits. The increase in the frequency in the 
+occurrence of the drought event will effect severely in agricultural sector. Thus, Nepal, a 
+country with its 1/3rd of working force dependent upon agriculture to sustain their livelihood 
+will be severely impacted. 
+Forest fire: 
+An increase in the frequency and intensity of droughts, if coupled with extended forest cover, 
+will greatly increase the risk of forest fires. These fires not only had a negative impact locally 
+but have other indirect long-term impacts, too. The loss of forest implies loss of local 
+livelihoods. It may also affect integrity of local water sources. Biodiversity also will be 
+severely impacted by forest fire and changing climate. 
+11 
+Besides these there are many other climate induced hazards whose frequency might be 
+enhanced if the climate continues to change abruptly. National Adaptation Programme of 
+Action (NAPA) 2010, ranked 29 districts as highly vulnerable to landslides, 22 districts to 
+drought, 12 districts to GLOFs, and 9 districts to flooding.  
+12 
+CHAPTER IV 
+CONCLUSION 
+Overall, it can be concluded that climate change and Nepal have a nexus between each other. 
+It was found that the temperature of Nepal is warming at the faster than that of the global 
+average. Review of many papers shows that Nepal is very vulnerable to climate change and 
+this problem may be alleviate low resilient capacity. It was seen that climate impacts many 
+sectors. Few sectors in which GDP of the country is highly dependent is also impacted by 
+climate change. For example agriculture, hydroelectricity. Climate change is expected to 
+cause many other climate induced hazard like flood, drought, landslides, forest fire etc. with 
+it. Climate change thus directly impacts the economy of the country and hence the livelihood 
+of the people. 
+13 
+References 
+Alam, M., & Regmi. B.R, (2004). Capacity Strengthening in the Least Developed Countries
+ (LDCs) For Adaptation to Climate Change (CLACC): Nepal. Society. 
+CBS, 2012. Central Bureau of Statistics of Nepal. Kathmandu, Nepal: National Planning
+ Commission Secretariat, Government of Nepal 
+Climate Development Knowledge Network (CDKN. (2014). OPINION: Who is paying for
+ climate change in Nepal? Retrieved from http://cdkn.org/2014/06/opinion-who-is
+ paying-for-climate-change-in-nepal/?loclang=en_gb. 
+Dixit, A. 2009: Koshi Embankment Breach in Nepal: Need for a Paradigm Shift in
+ Responding to Floods, Economic and Political Weekly, Mumbai. 
+Hertel, T. W. and S. D. Rosch (2010), Climate Change, Agriculture, and Poverty. Applied
+ Economic Perspectives and Policy, volume 32, number 3, pp. 355–385. 
+IDS-Nepal, PAC, & GCAP. (2014). Economic Impact Assessment of Climate Change in 
+Key Sectors in Nepal, (April), 24. 
+INTENDED NATIONALLY DETERMINED CONTRIBUTIONS ( INDC ) Government 
+of Nepal Ministry of Population and Environment. (2016), (February). 
+IPCC, (2007). “Summary for Policymakers” Climate Change 2007: The Physical Science 
+Basis. Contribution of Working Group I to the Fourth Assessment Report of the
+ Intergovernmental Panel on Climate Change. Intergovernmental Panel on Climate
+ Change (2007-02-05). Retrieved on 2007-02-02. 
+IPCC, 2014: Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global 
+and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report 
+of the Intergovernmental Panel on Climate Change [Field, C.B., V.R. Barros, D.J. Dokken, 
+K.J. 
+Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R.C.
+ Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, and
+ I 
+L.L. White (eds.)]. Cambridge University Press, Cambridge, United Kingdom and
+ New York, NY, USA, 1132 pp. 
+Kabubo-Mariara, J. (2009), Global warming and livestock husbandry in Kenya: impacts and
+ adaptations. Ecological Economics 68. 
+MOPE (2004), Initial National Communication to the United Nations Framework
+ Convention on Climate Change, Ministry of Population and Environment,
+ Government of Nepal, Kathmandu. 
+Ministry of Science Technology and Environment. (2014). Nepal Second National
+ Communication (Vol. 1). http://doi.org/10.1017/CBO9781107415324.004 
+NCVST, 2009: Vulnerability Through the Eyes of Vulnerable: Climate Change Induced
+ Uncertainties and Nepal's Development Predicaments, Institute for Social and
+ Environmental Transition-Nepal (ISET-Nepal), Kathmandu and Institute for Social
+ and Environmental Transition (ISET) Boulder, Colorado for Nepal Climate
+ Vulnerability Study Team (NCVST), Kathmandu. 
+Nepal Climate Vulnerability Study Team (NCVST). (2009). Climate Change Induced 
+Uncertainties and Nepal’s Development Predicaments. 
+NPC. 2010. Three year plan Approach Paper 2010/11- 2012/13. Kathmandu, Nepal:
+ Government of Nepal. National Planning Commission 
+Pant, K.P. (2011), Economics of climate change for smallholder farmers in Nepal: a review.
+ The Journal of Agriculture and Environment 12, 113-126. 
+Patz, J.A., Confalonieri, U.E.C., Amerasinghe, F.P., Chua, K.B., Daszak, P., Hyatt, A.D.,
+ Molyneux, D., Thomson, M., Yameogo, L., Lazaro, M.M., Vasconcelos, P., Rubio-Palis,
+ Y., Campbell-lendrum, D., Jaenisch, T., Mahamat, H., Mutero, C., Waltner-Toews, D. and
+ Whiteman, C. (2005), Human health: ecosystem regulation of infectious diseases,
+ Ecosystems and Human Well-Being, Current State and Trends, vol.1. The Millennium
+ Ecosystem Assessment. 
+II 
+Raut, A. K. 2004, Climate change: Nepalese perspective, Earthtimes 
+Regmi, B., and Adhikari, A. (2007), Human Development Report 2007: Climate Change
+ and Human Development - Risk and Vulnerability in Warming World: Country Case
+ Study Nepal. UNDP. 
+Shrestha Rashmi Kiran, Rhodante Ahlers, Marloes Bakker, Joyeeta Gupta (2010)
+ Institutional 
+Dysfunction and Challenges in Flood Control: A Case Study of the
+ Kosi Flood 2008 Economic and Political Weekly vol. xlv no 2 Mumbai 
+Summary for Policymakers (2014) in Climate Change 2013 – The Physical Science Basis:
+ Working Group I Contribution to the Fifth Assessment Report of the
+ Intergovernmental Panel on Climate Change. Cambridge University Press, pp. 1
+ 30. 
+US 
+EPA. 
+(n.d.). 
+Climate 
+Change: 
+Basic 
+Information. 
+https://www.epa.gov/climatechange/climate-change-basic-information. Retrived on 
+Dec 26, 2016 
+World Bank (2008), Towards a strategic framework on climate change and development for
+ the World Bank group; Concept and issue paper (Consultation draft). The World
+ Bank, Washington DC. 
+World Food Programme. (2009). The Future of Food Creating sustainable communities 
+through climate adaptation. WFP Nepal - Food For Thought Series Issue 2. 
+View publication stats
+ III 

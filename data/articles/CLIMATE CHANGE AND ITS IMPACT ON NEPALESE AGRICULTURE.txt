@@ -1,0 +1,459 @@
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 62
+CLIMATE CHANGE AND ITS IMPACT ON NEPALESE AGRICULTURE
+G. Malla (Msc)14
+ABSTRACT
+
+Exponential growth of CO2 and other greenhouse gasses in the atmosphere is causing climate
+change. It affects agriculture, forestry, human health, biodiversity, snow coverand aquatic
+to mountain ecosystems. Changes in climatic factors like temperature, solar radiation and
+precipitation have potentials to influence crop production. Despite many efforts possible on
+combating impacts of climate change, there are still difficulties in Nepalese agriculture.
+With an average of 0.06o
+C/yea, a rise in temperature from 1975 to 2006 by 1.8o
+C has been
+recorded in the country. Problem of frequent drought, severe floods, landslides and mixed
+type of effects in agricultural crops have been experienced in Nepal because of climate
+change. Study done on CO2 enrichment technology at Khumaltar revealed that the yield of
+rice and wheat increased by 26.6% and 18.4% due to double CO2, 17.1% and 8.6% due to
+increase in temperature respectively. A crop simulation model (DSSAT) to study the effects
+of CO2, temperature and rain in NARC showed positive effect in yield of rice and wheat in all
+regions, but negative effect in maize especially in Terai. In Nepalese agriculture, the time
+has come for the authorities to find out adaptive measures to mitigate the effects to reduce
+untold natural calamities and miseries due to recent erratic weather pattern.
+Key words: Agricultural crops, GHGs and CO2, temperature, precipitation
+INTRODUCTION
+Climate change
+Climate change is a phenomenon due to emissions of greenhouse gases from fuel combustion,
+deforestation, urbanization and industrialization (Upreti, 1999) resulting variations in solar
+energy, temperature and precipitation. It is a real threat to the lives in the world that largely
+affects water resources, agriculture, coastal regions, freshwater habitats, vegetation and
+forests, snow cover and melting and geological processes such as landslide, desertification
+and floods, and has long-term affects on food security as well as in human health.
+Figure 1: Trend of average annual max. temperature of Nepal (1975-2006)
+
+14 Agri Environment Officer, Agri Environment Unit, NARC. Email : gmalla@narc.gov.np
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 63
+Figure 2: Trend of total precipitation (Source: Baidya and Karmacharya, 2007)
+Fig.1 shows the trend of average maximum temperature in Nepal, and that warming was
+higher than average in more than 12 years. Nepal’s temperature has increased by 1.8o
+C during
+last 32 years. In Nepal average temperature increase was recorded as 0.06o
+C per year and
+that in Terai and Himalayas was 0.04o
+C and 0.08o
+C/year respectively (Shrestha et al., 1999).
+It may be due to solar radiation absorbed by glacial lakes as well as radiation absorbed by
+land because of snow melting in the Himalayan region.
+Fig.2 shows the trend of average rainfall in Nepal. It shows more erratic pattern of
+precipitation in the country. Rainfall was recorded minimum in the year 1972, 1977, 1992 and
+2005 and maximum in the year 1975, 1985 and 1998 respectively. Erratic rainfall events (i.e.
+higher intensity of rains but less number of rainy days and unusual rain) with no decrease in
+total amount of annual precipitation have been experienced. Such events increase possibility
+of climatic extremes like irregular monsoon pattern, droughts and floods. For example, there
+were rain deficit in eastern terai and western regions, normal rain in far western region and
+heavy rain in the mid western region creating flood, landslide and inundation.
+Greenhouse gas and agriculture
+Water vapor, carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O) and CFCs are the
+major gases that play important role in the greenhouse effect. Among the GHGs CO2, CH4 and
+N2O are the 3 major gases which contribute about 88% roles in global warming (IPCC, 1996).
+Harrison and Aiyer noted the potential for CH4 release from rice fields as early as 1913 (Neue,
+1993). Concentration of the CH4 gas in the atmosphere is presently increasing at the rate of
+3% per year. It is predicted that by the year 2100 methane levels may rise by 3.0 to 4.0 ppm
+that may have a significant effect on climate change. World Data Center of Greenhouse gases
+reported recent global abundance of CO2, CH4 and N2O is 377.1 ppm, 1.783 ppm and 318.6
+ppb respectively (World Climate News, 2006).
+Study conducted at Nepal Agricultural Research Council (NARC) at Khumaltar showed average
+seasonal methane emission from rice fields was 28kg/ha/season in rain-fed condition and also
+found average maximum methane emission from rice field was 49.03 kg/ha in the field
+supplied with 50% nitrogen + 15 cm stubble. Minimum of 7.7 kg/ha of methane gas was found
+in the control fields. Further research on the GHGs in different eco-zones is required to
+quantify and verify their contribution more precisely in the agriculture (Malla, 2006). Seasonal
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 64
+methane emission of Thailand and India were 49 and 45 kg/ha respectively. Lower emission in
+Nepal was due to lack of irrigation facilities and minimum fertilizer application as compared
+to developed countries. Highest methane emission from rice was showed 367 kg in Korea. It
+may be due to maximum use of chemical fertilizer and better irrigation facilities.
+Weather and agriculture
+Weather is an atmospheric condition at the surface timescale from minutes to weeks and has
+an important impact on agriculture (ICIMOD/ UNEP, 2007). In Nepal, more than 80 % of
+precipitation occurs in the monsoon during June to September. Increase in temperature and
+vents of erratic rainfall directly affect the agriculture and food supply through their effects
+on crops. The production varies due to rain brought by monsoon. Agriculture is sensitive to
+short-term changes in weather that affect the production of crops. Insufficient rain and
+increasing temperature cause drought, whereas intense rain in short period reduces ground
+water recharge by accelerating runoff and causes floods. Both the situations induce negative
+effects in the agriculture. The climate change also causes disruption in normal weather
+pattern changing intensity and duration of monsoon.
+
+Impacts on Nepalese agriculture
+Nepal’s economy depends on agriculture. Total area of Nepal is 147,181 km2
+ divided in
+mountains (35%), hills (42%) and terai (23%). A total of 3091000ha area is cultivated for
+agriculture, and it accounts for 38.15% of the gross domestic product (GDP). The country is
+susceptible to disasters, including flash flood, GLOF and melting snow in the mountains and
+droughts and inundation in the terai.
+
+The rising temperature and emission of CO2 to some extent is helpful in production of major
+crops. For example, increase in agricultural production by enhancing photosynthetic
+processes, water use efficiency, shortening physiological period and soil microbial activities.
+Decrease in grain filling period due to increase in respiration process, fertilizer use
+efficiencies, shift in agricultural zone, increase in insect pest population, desertification,
+increase in soil erosion, evapo-transpiration and cause malnutrition in a world overflowing
+with food due to reducing protein and decrease in mineral nutrients content in different crops
+are negative effects. The impacts on agriculture are the decrease of productive land in some
+region and increase in other region. So, it is a complex problem to the world (Pathak et al.,
+2003a). Rising CO2 promotes plant growth and if the CO2 gas doubles, yields will increase by
+40%. Some positive findings with increased CO2 concentration are shown in the Annex 1.
+EVIDENCES OF CLIMATE CHANGE IN NEPAL AND NEPALESE AGRICULTURE
+General
+• Twelve warmest years since 1975 to 2007 (eg. 2006 was the warmest year)
+• Late or pre-monsoon, unusual precipitation, decreased rainy days and intense rainfall
+events caused more runoff and low groundwater recharge.
+• Extreme fog conditions have recently been observed in the terai regions.
+• Traditional rainfalls of Jestha and Ashar (mid July) have been shifted in Shrawan and
+Bhadra in Kathmandu. It has affected negatively in the paddy production.
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 65
+• Receding snowfall and retreating of the glaciers (AX010 small glacier mountain shrinking
+at alarming rate) due to increase in atmospheric temperature in mountain environment.
+• KTM valley frost day decreasing, winter cold shifted to a month later than regular and
+snowfall in Kathmandu (Feb 2007, after 60 years).
+• Recently Darchula district of the country faced unusual snow fall affecting collection of
+precious medicinal herbs Yarsa gumba (Kantipur news may 2008)
+• Mosquito from Terai and Mid-hill being able to survive in high- hills (Ilam, Mustang and
+Helambu area)
+AGRICULTURE
+• Eastern Terai faced rain deficit in the year 2005/06 by early monsoon and crop production
+reduced by 12.5% on national basis. Nearly 10% of agri- land were left fallow due to rain
+deficit but mid western Terai faced heavy rain with floods, which reduced production by
+30% in the year (Regmi, 2007).
+• Early Maturity of the crops due to increase in temperature may help to have more crops in
+the same crop cycle (NARC annual report).
+• Shifting of climatic zones has been observed in the country. Extinction of natural
+vegetation: local basmati rice varieties, some local wheat, maize and other agricultural
+crops was also observed.
+• Cold wave in Nepal in 1997/98 had negative impacts on agricultural productivity and
+showed reduction in the production of crops by 27.8, 36.5, 11.2, 30, 37.6 and 38 % in
+potato, toria, sarson, rayo, lentil and chickpea respectively (Source: NARC annual reports
+from 1987/88 to 1997/98,).
+OBJECTIVES
+• To introduce the concept of climate change and its impacts in agriculture
+• To help policy makers in formulating strategies on climate change and its consequences
+IMPACT OF CLIMATE CHANGE ON AGRICULTURAL LANDS AND AGRO-ECO-ZONES
+Nepal has various types of agricultural zones like plains, hills, mid hills, high hills and
+mountains. Changes in agri-zones lead to the change in cropping pattern of the zone. Climatic
+parameters have potential impact to change the ecological distribution of agricultural crops.
+If shifting of climatic zones occurred rapidly due to climate change, extinction of biodiversity
+might be severe. Effects are mainly on cold-water fish, herbs, pasturelands, tree lines (apple
+trees) and livestock (Chauri). Increase in temperature cause more damage on agricultural
+sectors in Terai region and will be more favorable to agriculture in the hills and mountains. As
+temperature increases, cropping pattern as well as vector born disease of human and
+livestock’s can be expected to shift in higher eco zones too. Some lands, which are presently
+undesirable due to different weather factors, may be desirable in near future. For example:
+maize, chilly, tomato and cucumber are now being adopted in Mustang district of the country.
+Soil fertility and water availability
+As a natural fertilizer, more food can be grown with increasing CO2. Increase in vigorous
+growth of food crops due to more availability of CO2 may reduce the nutrients available in
+soil. Increase in temperature may lead to reduce the level of soil organic carbon, soil
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 66
+micronutrients and enhance decomposition by activating the microbial population in the soil
+(Malla, 2003). Koshi, Narayani, Karnali and Mahakali are four major rivers flowing from the
+Himalayas, and are the main source of water of the country. Agricultural sectors: mainly
+crops, livestock's and horticulture largely depend on the given water sources in the country.
+Variability in climate and weather is major reason for change in moisture availability in the
+soil. The rapid evapo-transpiration due to increase in temperature, will demand more water
+to reduce drought. Water availability governs the physiological active period and crop
+production. Research showed evapo-transpiration and evaporation were also disturbed by
++2o
+C and +4o
+C monthly temperature rise (Fennessey, 1994). Probable vulnerabilities due to
+increase in atmospheric temperature are decrease in watertable, increase in evapotranspiration, soil erosion, landslides, floods, inundation of standing crops and reduction of
+soil fertility.
+IMPACTS OF CLIMATE CHANGE ON MAJOR CROPS AND LIVESTOCK
+Rice
+
+Rice is the second important crop in the world with production of about 525 million tons from
+about 148 million hectors. It is cultivated within an altitude of 300-2300 meter above sea
+level. In south Asia, rice production has to be doubled by the year 2020 (IRRI, 2000). Study on
+increased CO2 and temperature in NARC at Khumaltar shows the increase of rice yield by
+17.07 and 26.58% even at the increase in temperature in chamber by 6.2o
+C and 7.36o
+C (Annex
+2 and 3). Greenhouse effect due to doubling carbon dioxide was observed by 1.16o
+C and
+produced 9.51% higher than ambient plots. Nitrogen content of the rice was increased by
+16.3% due to rise in temperature, but decreased by 9.8% due to doubling of CO2. Panicle
+initiation, flowering, heading, milking stage and crop maturity period has decreased by
+7,4,4,4, and 6 days respectively due to the increase in temperature.
+Crop simulation modeling "Decision Support System for Agro-technology Transfer" (DSSAT) was
+used with CO2, temperature and rain as climatic parameters to study impact of climate
+change in rice, wheat and maize in NARC and showed that the rice yield increased under
+elevated CO2 in the terai, hills and mountains initially. But it dropped to 3.4 % in the terai,
+and continued to increase by 17.9% in the hills and by 36.1% in the mountains, when the
+temperature was increased by 4o
+C (Fig 3).
+-10
+0
+10
+20
+30
+40
+50
+Terai Hill Mountain
+-5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Terai Hill Mountain -30.0
+-25.0
+-20.0
+-15.0
+-10.0
+-5.0
+0.0
+5.0
+10.0
+15.0
+20.0
+Terai Hill Mountain
+Figure 3: Percentage change in rice, wheat and maize yield with CO2, temperature and rain (source:
+Sherchand et al., 2007)
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 67
+Wheat
+Wheat is the first important crop in world and third in Nepal. It occupies 20% of total cereal
+area and contributes 18.8% of the total cereal production in the country. Climatic parameters
+like rain and temperature strongly affect the growth and productivity of wheat. An
+experiment conducted in Open Top Chamber at Khumaltar shows the increase of wheat yield
+by 8.63 and 9.74 % even at the increase of the temperature by 6.94o
+C and the doubling of CO2
+(Annex 4 and 5). Greenhouse effect due to doubling of CO2 was observed only by 0.18o
+C and
+produced 9.74% higher than ambient plots. Physiological growth stages like panicle initiation,
+heading, flowering, milking and physiological maturity decreased by 14, 5, 9, 6 and 14 days
+respectively due to increase in temperature. Increase in the CO2 level in the C3 pathway in
+rice and wheat helped to increase the production.
+Wheat production was increased by 41.5 % in the Terai plain, 24.4 % in the hill and 21.2 % in
+the mountain under the elevated CO2. The yield however decreased by 1.8% in the Terai but
+continued to increase by 5.3 % in the hill and 33.3 % in the mountain at 4o
+C rise in
+temperature under irrigated condition (fig.3).The study conducted in India showed that, in
+subtropical region there will be small decrease in potential yield by 1.5-5.8% but in tropical
+zone the decrease will be 17-18% (Agrawal and Kalra, 1994). It indicates that rainfed wheat
+productivity is likely to suffer more in Terai as compared to the mid-hill’s environment in a
+climate change scenario. The additional rains had favorable impacts on the wheat yield at all
+levels of temperature rise (Sherchand et al., 2007).
+Maize
+Maize is second major crop in Nepal but the primary crop in the hills. Soil moisture
+availability during pre-monsoon determines the planting date of maize. The relaying or mixed
+cropping in the hills are common practices to ensure harvest of the crop. The millet and
+soybean is widely relayed at mid-altitude whereas groundnut and beans are also used as relay
+crops for maize. Being a C4 photosynthetic pathway plant, its grain productivity is less
+responsive to impacts of increase in atmospheric CO2 level. Maize production was increased
+by 9.0% in the terai, 4.9% in the hills and 15.5% in the mountains. However, the yield
+continued to decline by 26.4 % in the terai, by -9.3% in the hills but increased to 26.8% in the
+mountains at 4o
+ temperature rise. Thus, the response of temperature to maize crop is more
+favorable in the mountains than in the terai and hills.
+Horticultural crops
+Fruits and vegetables are grown in 255 thousand hectares. Climate change effects on
+horticultural crops are speedily becoming issues in the present situation. Tropical fruits
+(banana, mango, papaya) and other crop like (croton) has been adopted in mid hills and
+observed off-season flowering in high altitudes crops like peach, pear and apple. Open top
+chamber was used to study the response of temperature and CO2 in tomato and showed that
+tomato production increased by 279% and fruit number by 205 % in increased CO2 as compared
+to field condition (Annex 6).
+Some researches conducted in other countries has shown doubling of CO2 in potato decreased
+the elements content like iron, zinc, manganese and sulphur. In soybean seed Oleic acid
+concentration increased with increase in temperature whereas linolenic acid decreased
+(Thomas et al., 2003). Also researches showed complex results e.g. in strawberries ascorbic
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 68
+acid and glutathione increased by 13 and 171 percent from ambient to ambient + 600 ppm
+CO2 condition (Agriculture Research Service). Etween, 1993 found 14 per cent decline in
+nitrogen content of seeds compared with plants grown in ambient air (Curtis). Seventy-five
+percent increase in air CO2 content increased sourness in orange. Vitamin C (antioxidant) was
+increased approximately by 5 percent due to increase in carbon dioxide gas (Kimball and
+Mitchell, 1981). Increase in CO2 in atmosphere makes positive impacts in the amount of
+essential vitamins in fruits and vegetables that help to improve the human health.
+Pests and diseases
+Climate change parameters: temperature, rainfall pattern and humidity have an impact on
+the development and distribution of pests and diseases. Increase in temperature and CO2 will
+lead to an increase in population of pests and severity of diseases in presence of host plant. It
+increases the rate of reproductive cycle of insect and pest. The increase in insect population
+leads to demand for more use of pesticide, which unknowingly causes lots of harm to
+ecosystem as well as human society. Incidence of pest and diseases would be most severe in
+tropical region due to climate change. Pest and disease of plain ecosystem may gradually shift
+to hills and mountains. Some pathogens of important crops from Terai zones has adapted in
+hills and mid-hills (eg. rust and foliar blight) that may adversely affect the agricultural
+production.
+Livestock
+Livestock is a major component of agriculture. It includes poultry, dairy production and raring
+animals such as cattle, buffaloes, sheeps, goats and pigs. It is the major contributor of
+methane mainly from ruminant animals. It is estimated to be around 365.78Gg from 19.4
+million animals in Nepal. Meat and milk products are perishable goods, which require more
+energy to conserve the products. It is highly sensitive to fluctuation of atmospheric
+temperature. Increase in temperature by 2o
+C would decrease the meat and milk quality,
+hatchability of poultry and increases the possibility of disease in the livestock. Thus, it
+increases the probability of vector born diseases in the human society. On the other hand,
+increase of atmospheric CO2 will increase the greenery of the land or fodder and pasture for
+the livestock's. Increase in amount of green fodder helps to boost up meat and milk
+production. It will ultimately help in improvement of economic status of Nepalese livestock
+farmers. However, if CO2 is increases rapidly, all the living creatures have to suffer from
+various impacts like diseases and other problems.
+RESEARCH POTENTIALS OF NEPALESE AGRICULTURE TO ADAPT IN THE CHANGING CLIMATE
+• Improvement of heat, drought and pest resistant crops
+• Improvement in resources for irrigation efficiencies: drip and sprinkler irrigation
+• Research in water and nutrient management in various agro-ecologies to meet the climate
+change
+• Research in green manuring crops, cover crops, to preserve soil moisture, soil organic
+matter and micronutrients
+• Research on climate prediction related models and their application.
+• Research works on new technologies towards low carbon economy.
+• Research on land use planning, watershed management, vulnerability assessment and
+resource management.
+• Research on yield gap analysis to analyze the factors responsible to climate change
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 69
+STRATEGIES FOR IMPROVING THE AGRICULTURAL PRODUCTIONS
+• Promote seminar, workshops, training and general education to rural population
+dependent on agriculture.
+• Identification of present issues of climate change related to agricultural sectors.
+• Strengthen Agricultural Research Station and commodity program to run effective
+researches related to climate change.
+• Interactive communication for transfer technologies to farmers about climate change and
+its impacts on agriculture
+• Preservation of genetic materials to reduce extinction of biodiversity
+• Crop insurances for social securities and food securities
+• Change in national policies towards farmers incentives such as subsidy in agricultural
+inputs and agricultural investment
+ RECOMMENDATIONS
+The following important recommendations should get priority in policy:
+• Develop irrigation infrastructure for reducing drought hazards.
+• Develop minimum tillage and zero tillage in the rice, wheat and maize to reduce carbon
+and water loss from soil.
+• Develop heat, drought resistant verities/breeds, insect pest resistant varieties and
+increase mechanism of IPM (integrated pest management)
+• Develop safe agrochemicals to minimize pest and disease damage in the crops.
+• Develop cooperation and coordination with neighboring country to cope with
+vulnerabilities.
+• Develop climate-forecasting system for reducing hazards.
+CONCLUSION
+Climate change is real and underway, so there is a need of impact identification and adoption
+to cope with vulnerabilities in agricultural sector. Nepal being a least developed country, it is
+moving towards vulnerable situation due to climate change. As it is known, its effects cannot
+be completely controlled but effective planning and change in human habit towards a low
+carbon economy can slower down possible disasters. Enriched CO2 has shown positive impact
+on yield of major crops in all geographical zones. However, some research findings from other
+countries showed reduction in grain and food quality. Increase in temperature and CO2 levels
+is also threatening to bring hidden-hunger problem in human by lowering essential nutrients
+contents in food crops. It is concluded that overall impact of climate change in agricultural
+sectors will have negative impacts in the long run.
+REFERENCES
+AEU, 2001. Agri Environment Unit Annoal Report, 2001.
+Agrawal, P. K. and N. Kalra, 1994. Analysing the limitation set by climate factors, genotype, and
+water and nitrogen availability on productivity of wheat II. Climatically potential yield and optimal
+management strategies. Field crop res. 38:93-103
+Agriculture and Environment, 2000. Global warming and its relationship with agriculture.
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 70
+Bajracharya, et al., 2007. Impact of climate on Himalayan glaciers and glacial lakes. ICIMOD/ UNEP,
+pp7-19.
+Fennessey, N. M. and P. H. Kirshen, 1994. Evaporation and evapo-transpiration under climate change
+in New England.
+ICIMOD, UNEP, 2007. Global Climate Change and Retreat of Himalayan Glaciers in China, India, Bhutan
+and Nepal,pp7-19.
+IPCC,1996. Climate Change - 1995. The Science of Climate Change. Cambridge (UK): Cambridge
+University Press, XII, pp572
+IRRI, 2000. world rice statistics 1993-1994. International rice research Institute, manila, The Philipines
+Lawton, 2002. New scientist vol 176issue2371-30 November2002.page 26
+Malla, G. et al., 2005. Mitigating nitrous oxide and methane emission from soil in rice-wheat system of
+the Indo-Gangetic Plain with nitrification and urease inhibitors, Chemo- sphere, 58:141-147.
+Malla, G., 2003. Impact of climate change on water and soil health, Agriculture and Environment.
+MOAC, pp63-71.
+Malla, G., 2006. Effect of different fertilizers in reducing Methane gas (CH4) emission from rice fields.
+Summer crop workshop proceeding,
+Malla, G., 2007. Melting Ice: ‘ warning signs’ , The Journal of Agriculture and Environment. MOAC,
+pp66-73.
+Malla, G., 2007. Methane emission is challenge for environment. Hamro Sampada. Indreni offset press,
+pp1172-173.
+Neue, H.U., 1993. Methane emission from rice fields. Bioscience, 43: 466-474.
+Prinn, R.G. (1995) Global Change: Problems and uncertainties. In: Peng, S., Ingram,
+Pathak,et al., 2003a. Climate potential and onfarm yield trends of rice and wheat in the indo Gangatic
+plains field crops Re, 80:223-234.
+Pathak. H. and S. Kumar, 2003. Soil and greenhouse effect monitoring and mitigation: CBS publishers
+and Distributors.
+Regmi, H. R., 2007. Effect of unusual weather on cereal crops production and household food security.
+The Journal of Agriculture and Environment, pp20-29
+Sherchand, et al., 2005. Carbon dioxide enrichment technology in rice.
+Sherchand, et al., 2007. Climate Change and Agriculture In Nepal July 2007. DSSAT
+Sherwood, et al,. 2007. Enhanced Impared ? Human Health in a Co2 – Enriched warmer world.
+http://www.co2science.org
+Shrestha, et al., 2002. Bathymetric surver of Tsho Rolpa Glacier Lake-2002.
+State of the Environment, 2001. United Nations Environment Program, pp11-22.
+ The Journal of the Agriculture and Environment, 2007, Melting Ice: A Hot Topic, MOAC, pp20-29.
+Thomas, et al,. 2003. Elevated temperature and carbondioxide effects on soybean seed composition
+and transcript aboundance. Crop science society of America, 43:1548-1557.
+Upreti, C. R., 2007. A technology for reducing methane from livestock’s. Hamro Sampada. Indreni
+offset press, pp102-103.
+Upreti, D.C., 1999. Rising Atmospheric CO and crop response. SASCOM Scientific Report, pp1-8.
+World Climate News, 2006. Homing in on rising sea-leavels. June 29, 2006.
+ANNEXES
+The Journal of Agriculture and Environment Vol:.9, Jun.2008 Review Paper
+. 71
+Annex 1: Percentage increase in agricultural crops due to double CO2
+S.N Agricultural crops % increase in productivity
+1 C3 cereals 70
+2 C4 cereals 28
+3 Fruits and melons 33
+4 Legumes 62
+5 Roots and tubers 67
+6 Vegetables 51
+7 Mean 51.83
+Source: Science and technology news service, vol. 176, issue2371, Nov, 2002
+Annex 2: Rice yield and % change due to increase in CO2 and temperature
+Rice Yield (kg) Treatment 2001 2002 2003 2004 Average % Change
+Ambient+elevated CO2 10857 11966 9861 8918 10400.5 26.58 (9.51)
+Ambient 6860 11392 9395 8110 8939.25 17.07
+Field 6386 10334 6794 7028 7635.5
+Source: AEU annual report, 2001
+Annex 3: Average maximum temperatures during rice season
+ Maximum Temperature o
+C during rice crop
+ Treatment 2001 2002 2003 2004 2005 Average Difference
+ CO2 Enrichment 35.84 31.59 35.76 35.34 35.1 34.726 7.36 (1.16)
+Ambient 34.29 30.5 34.43 34.5 34.1 33.564 6.2
+Field 27.43 26.16 28.63 27.2 27.4 27.364
+Source: AEU annual report, 2001
+Annex 4: Wheat yield and % change due to increase in temperature
+Wheat Yield (kg) Treatments 2001/02 2002/03 2003/04 2004/05 Average % Change
+CO2 Enrichment 3059 5644 4100 4380 4296 18.37% (9.74 )
+Ambient 2235 5420 2800 4897 3838 8.63%
+Field 1132 5037 3100 4758 3507
+Source: AEU annual report, 2001
+Annex 5: Average maximum temperatures during wheat season
+ Treatments Maximum Temperature o
+C during wheat crop
+Year 2002/03 2003/04 2004/05 Average Difference
+CO2 Enrichment 24.91 30.06 28.1 27.69 7.12 (0.18%)
+Ambient 26.06 29.07 27.4 27.51 6.94
+Field 20.42 21.18 20.1 20.57
+Source: AEU annual report, 2001
+Annex 6: Percentage change in Tomato yield by doubling CO2 and rise of temperature
+Treatment Fruit Wt. (kg/ha) Fruit Wt. % Fruit No. %
+Elevated CO2 22451 279 205
+Ambient 15785 196 165
+Field 8032 100 100
+Source: AEU, NARC, Annual Report 2001 

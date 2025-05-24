@@ -1,0 +1,576 @@
+| 21
+Issues of Climate Change in Nepal
+Pramshu Nepal1
+, Sanjog Singh Kadayat2
+Abstract
+This study discusses the multifaceted impacts of climate change on Nepal's environment, economy,
+and society. It highlights the country's vulnerability to climate-related challenges such as erratic
+weather patterns, glacial melting, and the resulting socio-economic consequences for its population.
+The document also outlines Nepal's efforts to address these challenges through policy frameworks
+like the National Climate Change Policy and the National Adaptation Programme of Action
+(NAPA). Additionally, it emphasizes the importance of international cooperation, community-based
+adaptation initiatives, and the promotion of renewable energy as key strategies to build resilience
+and mitigate the adverse effects of climate change in Nepal. The paper serves as a comprehensive
+resource for understanding the complexities of climate change in Nepal and the various measures
+being implemented to safeguard the country's future. It provides valuable insights for policymakers,
+researchers, and development practitioners involved in climate action, emphasizing the need for a
+coordinated and multi-faceted approach to address the evolving impacts of climate change.
+Kewords: Climate Change, Government Action, Agriculture, Biodiversity, Livelihood, Nepal
+1. Introduction
+Climate change refers to significant and long-term alterations in the Earth's climate patterns,
+predominantly caused by human activities, such as burning fossil fuels, deforestation, and industrial
+processes (Climate Action, 2023). These activities release greenhouse gases, such as carbon dioxide
+(CO2), methane (CH4), and nitrous oxide (N2O), into the atmosphere, which trap heat and result in
+the warming of the planet. While natural factors also influence climate, the current rate of change
+far exceeds natural variations and is primarily attributed to human actions (Matoset al., 2022).
+The effects of climate change are widespread and multifaceted, impacting various aspects of the
+environment, society, and economy. Rising global temperatures lead to more frequent and severe
+weather events, including heatwaves, storms, floods, and droughts. These extreme weather events
+can devastate communities, disrupt ecosystems, and threaten food and water security (Watts, 2023).
+Additionally, melting ice caps and glaciers contribute to sea-level rise, posing risks to coastal cities
+and island nations. Ocean acidification, caused by the absorption of excess CO2, harms marine life
+and coral reefs, which are crucial ecosystems supporting biodiversity and fisheries (Watts, 2023).
+Climate change also exacerbates existing environmental challenges, such as deforestation, habitat
+loss, and species extinction. Changes in temperature and precipitation patterns alter ecosystems,
+disrupting the balance of plant and animal species and leading to shifts in habitats and migration
+patterns (Irfan, 2024).
+1 Associate Professor, Central Department of Economics, Tribhuvan University, Nepal, Email: pramshunepal@gmail.com (Corresponding Author)
+1 Research Assistant, Policy Research Institute, Kathmandu, Nepal
+The Journal of Economic Concerns | Volume 15, Number 1, 2024
+ISSN Print : 2091-0541 | ISSN Online : 2705-4802 | Published by NECS, NEPAL
+ © The Author(s) 2024 DOI: https://doi.org/10.3126/tjec.v15i1.70237
+22 | The Journal of Economic Concerns, Volume 15, Number 1
+Furthermore, climate change has profound social and economic implications, disproportionately
+affecting vulnerable populations, including the poor, elderly, and marginalized communities. It
+exacerbates poverty, increases the risk of conflict over dwindling resources, and threatens livelihoods
+in sectors like agriculture, fishing, and tourism (Malhi et al., 2021). Addressing climate change
+requires concerted efforts at local, national, and international levels, including mitigation strategies
+to reduce greenhouse gas emissions and adaptation measures to cope with its impacts (Kaczan &
+Meyer, 2020). Transitioning to renewable energy sources, improving energy efficiency, protecting
+forests, and promoting sustainable practices are critical steps towards building a more resilient and
+sustainable future for generations to come (Perera et al., 2021).
+Climate Change in Nepal
+Nestled in the heart of the Himalayas, Nepal is a country with rich biodiversity and stunning
+landscapes, yet it faces significant challenges due to climate change. The impacts are diverse and
+far-reaching, with alterations in weather patterns and increased frequency of extreme weather
+events such as erratic rainfall, prolonged droughts, and intense monsoons. These changes disrupt
+agriculture, exacerbate water scarcity, and increase the risks of landslides and flooding, particularly
+in mountainous regions (World Bank, 2022). Additionally, the accelerated melting of Himalayan
+glaciers, which are crucial for freshwater supply, poses severe threats, including the heightened risk
+of glacial lake outburst floods (GLOFs) that endanger downstream communities (Agrawala et al.,
+2023). Moreover, shifts in temperature and precipitation patterns are adversely affecting ecosystems
+and biodiversity, leading to habitat loss and increased vulnerability to pests and diseases (World
+Bank, 2022).
+The socio-economic impacts of climate change in Nepal are equally concerning, particularly for
+vulnerable populations in remote areas. Declining agricultural productivity threatens food security
+and livelihoods, while sectors like tourism and hydropower face uncertainties due to the changing
+climate (Sapkota, 2016). Addressing these challenges requires a multi-faceted approach that
+integrates adaptation and mitigation measures into national policies. Investing in climate-smart
+agriculture, sustainable water management, disaster risk reduction, and renewable energy is vital
+for safeguarding livelihoods and promoting sustainable development. International cooperation is
+crucial for Nepal to access the necessary resources and technologies to effectively combat climate
+change and build a resilient and sustainable future (Dahal, 2010; Climate Action, 2023).
+Government Action on Climate Change
+Nepal has undertaken several strategic initiatives to combat climate change and mitigate its impacts,
+recognizing the critical need to protect its people and ecosystems. The National Climate Change
+Policy (2011) provides a comprehensive framework for integrating climate considerations into
+national planning, focusing on resilience and sustainable development. Complementing this, the
+National Adaptation Programme of Action (NAPA) identifies priority sectors such as agriculture,
+water resources, health, and infrastructure, outlining urgent adaptation measures. The Climate
+Change Budget Code (CCBC) was introduced to ensure that climate change considerations are
+| 23
+embedded in the national budget, enhancing transparency and accountability in funding climaterelated activities.
+In addition to these policy frameworks, Nepal has prioritized the promotion of renewable energy,
+with programs encouraging investment in hydropower, solar, and wind energy to reduce fossil fuel
+dependence and lower greenhouse gas emissions. The government has also emphasized communitybased adaptation initiatives, empowering local communities to implement tailored solutions, such
+as watershed management and disaster preparedness, to build resilience. On the international front,
+Nepal actively engages in global climate initiatives and partnerships, participating in agreements
+like the UNFCCC to access technical expertise, financial resources, and capacity-building support
+essential for effective climate action..
+Overall, Nepal's government has demonstrated a commitment to addressing climate change through
+policy formulation, institutional frameworks, and on-the-ground initiatives aimed at enhancing
+resilience, promoting sustainable development, and transitioning to a low-carbon economy. However,
+significant challenges remain, including limited resources, institutional capacity constraints, and the
+need for enhanced coordination and collaboration across sectors and stakeholders to effectively
+tackle the complex and evolving impacts of climate change (Lamsal et al., 2014).
+2. Literature Review
+The conclusion drawn by Shrestha and Aryal (2011) underscores the complex interplay between
+climate change and its impact on water resources in the Himalayan region. While temperature trends
+align with climate model projections, precipitation variability remains inconclusive. Nevertheless, the
+observed rapid deglaciation poses a significant threat to water resources, particularly affecting river
+flow and runoff patterns crucial for Nepal and India. Despite inconsistencies in model predictions,
+the imperative for comprehensive hydrological modeling to anticipate future runoff changes is
+emphasized, alongside the need for vulnerability assessments nd adaptation plans to mitigate risks,
+particularly concerning glacial lake outburst floods. As river flow data analysis reveals no consistent
+trends presently, a cautious approach is advocated, urging proactive measures and preparation for
+potential adverse consequences of ongoing deglaciation and climate change.
+Lamsal et al. (2014) offer valuable insights into the climate change policy landscape in Nepal.
+Through an analysis of challenges, opportunities, and imperatives, the authors provide a
+comprehensive overview of Nepal's response to climate change. The literature review likely delves
+into the unique vulnerabilities of Nepal to climate change, considering its geographical diversity,
+fragile ecosystems, and socioeconomic factors. Additionally, the publication may discuss existing
+policy frameworks and initiatives aimed at climate change adaptation and mitigation, highlighting
+areas of progress and areas needing improvement. Furthermore, it may offer recommendations
+for enhancing Nepal's climate resilience and mainstreaming climate considerations into national
+development plans. Overall, this literature review serves as a significant resource for policymakers,
+researchers, and practitioners involved in climate change policy and planning in Nepal, providing
+critical insights into the country's efforts to address the challenges posed by climate change.
+Issues of Climate Change in Nepal
+24 | The Journal of Economic Concerns, Volume 15, Number 1
+The study by Sapkota (2016) shows the multifaceted nature of climate change, elucidating its
+origins in both natural phenomena and anthropogenic activities. While acknowledging the historical
+context of temperature increases and future projections, the review underscores the disproportionate
+vulnerability of Nepal despite its minimal contribution to global greenhouse gas emissions. With
+a focus on the country's reliance on agriculture and hydroelectricity, compounded by its fragile
+ecosystem and uneven topography, the review emphasizes the diverse sectors at risk and the potential
+for cascading economic impacts. Moreover, the scarcity of research in the Hindukush Himalaya
+region, coupled with the urgent need for adaptation funding, underscores the critical importance
+of the study's intended investigation into Nepal's climate change impacts. Through secondary data
+analysis, the review sets the stage for a comprehensive understanding of the challenges ahead,
+emphasizing the interconnectedness between climate change, socio-economic factors, and Nepal's
+future resilience.
+Bhattacharjee et al. (2017) highlight a significant scarcity of studies documenting the biological
+impacts of climate change in the Himalayan region, particularly in Nepal. Only 15% of the
+reviewed articles addressed this issue, which may be an underestimation due to potential omissions,
+especially from gray literature sources. Nonetheless, these studies serve as a foundational baseline
+for understanding the biodiversity effects of climate change in the region. The focus primarily
+lies on predicting range shifts and alterations in species distributions, highlighting the necessity
+for more focused research on individual organisms and populations to elucidate their interactions
+with the changing environment. Such studies, including those examining physiological thresholds
+and evolutionary responses, are crucial for predicting and mitigating the potential ecological
+consequences of climate change, particularly concerning invasive species like Parthenium
+hysterophorus and Lantana camara in Nepal. Addressing these observational gaps presents an
+opportunity for substantial and imperative research into the organism-level impacts of climate
+change on biodiversity in the Himalayan region.
+Shrestha, et al. (2019) claimed that research integrating instrumental climate data with societal
+perspectives in the Himalayan region is limited. This study analyzed nationally representative
+data from Nepal (n = 5060) to assess local perceptions of climate change alongside instrumental
+climate trends. While instrumental evidence revealed consistent warming and precipitation patterns,
+locals accurately perceived temperature shifts but not precipitation changes. The article suggests
+that increased exposure to weather variations may enhance individuals' ability to detect climate
+change over time. By integrating community perceptions with climate data, this study provides
+methodological insights and supports the formulation of policies to mitigate climate risks and
+enhance adaptation strategies. Results from this study suggest that, improving climate communication
+between the public and scientists can enhance predictive accuracy over time, suggesting ongoing
+evaluation and capacity building are vital for effective adaptation to climate change.
+Rai (2019) highlighted significant shifts in precipitation patterns and agricultural practices in the
+eastern development region, particularly in Khotang district. Over the period of 1960 to 2009, the
+region has experienced contrasting trends in annual mean precipitation, with an increase observed
+| 25
+in the development region as a whole but a notable decrease in Khotang district. These changes
+have impacted both snow-fed and rain-fed river systems, with increasing trends in annual mean
+discharge observed in the Dudhkoshi River but decreasing trends in the rain-fed Shabhaya Khola.
+Concurrently, local communities have reported a variety of alterations in rainfall patterns, including
+reduced intensity and frequency of rainfall, diminished winter precipitation, and changes in
+snowfall, dew, fog, and hailstorm occurrences. These changes have significantly affected agricultural
+productivity, water availability, and fodder production, leading to adaptations such as shifts in
+cropping timings, adoption of drought-resistant seed varieties, and changes in cultivated crops to
+mitigate risks associated with climate variability. However, challenges such as soil degradation,
+inadequate farming inputs, and wildlife interference persist, necessitating ongoing adaptation efforts
+in the face of a changing environment.
+The study by Dahal et al. (2020) delves into the assessment of future water availability in the Karnali
+River Basin of the Nepal Himalaya using the SWAT hydrological model, offering crucial insights into
+the potential impacts of climate change. Through meticulous analysis, the study demonstrates the
+model's capability in accurately simulating river discharge, crucial for understanding hydrological
+dynamics. It projects a notable increase in mean temperature and precipitation across the basin,
+particularly during the pre-monsoon and monsoon seasons, under both RCP 4.5 and RCP 8.5
+scenarios. This trend suggests a significant alteration in the water resource regime, with an anticipated
+rise in river discharge by 2040-2069 and 2070-2099, potentially exacerbating the risk of floods and
+extreme events. The findings highlight the urgent need for proactive adaptation measures to mitigate
+the adverse impacts on infrastructure, livelihoods, and settlements, particularly in vulnerable lowlying areas. Overall, the study underscores the critical importance of understanding future water
+availability dynamics in the context of climate change for effective water resource management and
+disaster risk reduction strategies in the Karnali River Basin.
+Asian Development Bank (2020) provides a comprehensive overview of Nepal's vulnerability to
+climate change and its efforts in climate adaptation and mitigation. The literature review likely
+covers various aspects such as the country's geographical diversity, socioeconomic vulnerabilities,
+and exposure to climate-related hazards. It may highlight key findings regarding the impacts of
+climate change on Nepal's water resources, agriculture, biodiversity, and human health. Additionally,
+the profile may discuss existing climate policies, strategies, and initiatives undertaken by the
+government and other stakeholders to address climate change challenges. Furthermore, it may
+offer insights into priority areas for intervention and recommendations for enhancing resilience
+and sustainability in the face of climate change. Overall, this literature review serves as a valuable
+resource for policymakers, researchers, and development practitioners seeking to understand Nepal's
+climate change context and formulate evidence-based strategies for climate action.
+Research by Rayamajhee et al. (2021) explores the intricate relationship between climate change
+and rice cultivation in Nepal, a country heavily reliant on rice as a staple food crop. Through
+an in-depth analysis of existing research and empirical data, Rayamajhi elucidates the various
+ways in which climate change phenomena, such as altered precipitation patterns, temperature
+Issues of Climate Change in Nepal
+26 | The Journal of Economic Concerns, Volume 15, Number 1
+fluctuations, and increased occurrences of extreme weather events, pose significant challenges to
+rice production systems in Nepal. The authors highlight the vulnerability of smallholder farmers
+and rural communities to these climatic shifts, emphasizing the adverse impacts on agricultural
+productivity, food security, and livelihoods. Furthermore, the article underscores the importance
+of implementing adaptive strategies and sustainable agricultural practices to enhance the resilience
+of rice production systems amidst changing climatic conditions. By providing a comprehensive
+overview of the climate change impacts on rice cultivation in Nepal, this study contributes valuable
+insights for policymakers, agricultural practitioners, and researchers seeking to address the complex
+challenges posed by climate change in agrarian societies.
+Adhikari et al. (2021) provide a comprehensive analysis of the changing climatic patterns and
+their impacts on mountain communities in Nepal, with a focus on the Muktinath area. Through
+a combination of meteorological data analysis and farmer perceptions, the authors elucidate the
+adverse effects of climate change, including rising temperatures, erratic precipitation, and increased
+occurrence of natural hazards. Furthermore, the study highlights the diverse range of adaptation
+strategies adopted by local communities, rooted in traditional knowledge and locally available
+resources. However, it identifies significant barriers such as financial constraints, lack of knowledge,
+and weak institutional support hindering the effectiveness of these adaptation measures. The
+findings underscore the urgent need for enhanced local-level policies that actively involve farmers
+in decision-making processes and integrate climate change adaptation strategies into development
+plans. Importantly, the study emphasizes the importance of integrating traditional knowledge with
+modern technologies to ensure sustainable and effective outcomes in mitigating the impacts of
+climate change on mountain livelihoods.
+The literature on land use and climate change by Thapa (2021) reveals a predominant focus on
+examining their global and regional impacts, yet a growing body of research delves into multiple
+scales, including local contexts, to better comprehend this intricate interplay. Such studies underscore
+the necessity for comprehensive research efforts and stakeholder engagement to effectively address
+this complex phenomenon. It is evident that the potential for land-related responses, whether in terms
+of adaptation or mitigation, varies depending on contextual factors, such as the adaptive capacities
+of communities and regions. The reciprocal relationship between land use and climate change has
+profound implications at both global and regional scales, necessitating the development of simple
+models to estimate their mutual effects. Notably, countries like India, Ethiopia, Bangladesh, Europe,
+and Africa face similar challenges regarding the impacts of climate and land-use changes. However,
+there remains a gap in comprehensive research regarding land use and land cover change (LUCC) in
+Nepal, calling for further investigation into driving factors and future projections to inform effective
+strategies for sustainable land management and climate adaptation.
+Bhandari et al. (2022) highlight the impacts of climate change on species distribution, particularly
+exemplified by the case of the striped hyena (Hyaena hyaena) in Nepal, underscores the urgent
+need for effective conservation strategies in the face of biodiversity loss. The study utilizes Maxent
+species distribution modeling to predict the current and future habitat distribution of hyenas under
+| 27
+different representative concentration pathway (RCP) scenarios. Results indicate a significant
+reduction in suitable habitat for hyenas in Nepal, particularly in the Chure hills and Terai regions,
+with projections suggesting further declines over the next 50 years. These findings highlight the
+pressing challenges posed by climate change to species survival and emphasize the importance of
+incorporating such insights into conservation policies, while also underscoring the value of continued
+research to inform targeted conservation efforts amidst changing environmental conditions.
+Bhattarai et al. (2022) discuss the potential implications of climate change on hydro-energy generation
+in the Nepalese Himalaya, a region known for its significant hydropower potential. Focusing on the
+planned Budhigandaki Hydroelectricity Project, the study evaluates energy generation under various
+climate change scenarios, considering RCPs 4.5 and 8.5. Results indicate a notable dependence of
+energy generation on reservoir operating rules, with projected variations ranging from -5% to +12%
+compared to baseline estimates, particularly at different temporal scales. The study underscores the
+importance of assessing a range of plausible climate change scenarios to better inform decisionmaking processes. Moreover, it emphasizes the need for storage-type projects with flexible operating
+rules and consideration of competing users, alongside diversification of energy generation sources
+to ensure climate resilience and future energy security. The findings highlight the imperative for
+strategic planning and policy support to mitigate potential risks and optimize hydroelectricity
+development in the face of climate change uncertainties.
+UN Environment Program (2023) sheds light on the escalating challenges faced by communities
+residing in Nepal's mountainous regions due to the anticipated intensification of the monsoon
+season. The literature underscores the heightened vulnerability of these villages to the impacts of
+climate change, emphasizing the critical importance of adaptation measures in mitigating risks
+associated with extreme weather events. By focusing on Nepal's slopes, the article highlights the
+localized nature of climate impacts and the urgent need for tailored solutions to enhance resilience
+and protect livelihoods in vulnerable mountain communities. Through its empirical insights, the
+literature contributes to a deeper understanding of the complex interplay between climate dynamics
+and socio-economic vulnerabilities, advocating for proactive interventions to address the escalating
+threats posed by a changing climate in Nepal's mountainous regions.
+3. Research Methodology
+Explorative research design was chosen considering the purpose of the study which was to analyze
+the impact of climate change in areas and figure out the areas of focus. This study follows a qualitative
+approach which is based on published literature both domestically and internationally. This research
+works as a thematic summary of empirical literature to determine action areas for climate protection
+in Nepal. To address the research objective, secondary data was used from past literature in the
+field of climate change. The qualitative data from studies were analyzed using thematic analysis,
+identifying key themes related to community adaptation strategies, policy effectiveness, and barriers
+to implementation.
+Issues of Climate Change in Nepal
+28 | The Journal of Economic Concerns, Volume 15, Number 1
+4. Results and Discussion
+A plethora of study has been done by academicians as well as international organizations to
+understand the impact of climate change in Nepal and determine action areas. Such studies are
+conducted in Nepal due to its vulnerability to environmental shifts and its significant implications
+for the country's ecosystems, agriculture, water resources, and communities. Studies have examined
+changes in temperature and precipitation patterns, glacial retreat, shifts in monsoon dynamics,
+and the resulting effects on agriculture, biodiversity, and water availability. Additionally, research
+has investigated the socioeconomic impacts of climate change on vulnerable populations, such
+as mountain communities and marginalized groups, and assessed the effectiveness of adaptation
+measures and policies.
+Research on climate change in Nepal is done by academicians, media and international agencies.
+The major areas affected by climate change in Nepal can be discerned in terms of agriculture,
+biodiversity and water availability.
+4.1 Agriculture
+Agriculture is considered the backbone of our nations. Global warming and climate crisis has been a
+big challenge for farmers and their productions. Based on literature, the major areas within Nepal's
+agriculture sector that are being affected by climate change and global warming can be as follows.
+Table 1: Impact of Climate Change on Agriculture
+Agriculture Impact of Climate Change
+Crop
+Production
+Altered precipitation patterns affecting planting and harvesting seasons
+Increased frequency of extreme weather events such as droughts and floods
+Changes in temperature impacting crop growth and yield
+Water
+Management
+Changes in availability and distribution of water resources due to Altered
+precipitation patterns and glacial melt
+Increased risk of water scarcity, particularly in dry seasons and regions
+Changes in river flow affecting irrigation systems and water supply for agriculture
+Livestock
+Farming
+Heat stress on livestock due to rising temperatures
+Changes in forage availability and quality
+Increased prevalence of vector-borne diseases affecting livestock health
+Agroforestry Changes in forest composition and distribution due to temperature and precipitation
+Changes Altered patterns of tree growth and productivity
+Soil
+Management
+Soil erosion and degradation due to intensified rainfall and floods
+Loss of Soil fertility and productivity
+Increased risk of landslides and Soil erosion affecting agricultural land
+| 29
+4.2 Biodiversity
+Climate change poses significant threats to biodiversity in Nepal, exacerbating existing challenges in
+this ecologically diverse country. As temperatures rise and precipitation patterns shift, the distribution
+and habitats of numerous species are being altered. Endemic species, confined to specific niches,
+face heightened risks of extinction as their habitats become increasingly fragmented or unsuitable.
+The vulnerability of mountain communities reliant on biodiversity for livelihoods exacerbates the
+socio-economic impacts of biodiversity loss. Urgent action is needed to mitigate these effects,
+emphasizing the importance of conservation efforts and sustainable management practices tailored
+to Nepal's unique biodiversity and climatic challenges. These impacts on biodiversity can be
+observed as follows.
+Table 2: Effect of Climate Change on Biodiversity in Nepal
+Biodiversity Impact of Climate Change
+Habitat Loss
+Changes in temperature and precipitation patterns are altering the distribution of
+species and their habitats.
+Some species may be forced to migrate to higher elevations, while others may
+face habitat loss
+Changes in
+Phenology
+Increased risk of water scarcity, particularly in dry seasons and regions
+This can disrupt ecological interactions and lead to mismatches between species'
+life cycles
+Increased
+Vulnerability
+to Extinction
+Species already facing habitat loss or fragmentation are more vulnerable to the
+additional stressors brought by climate change
+Endemic species confined to specific habitats are particularly at risk
+Altered
+Ecosystem
+Dynamics
+Climate change can disrupt ecosystem functioning by affecting species
+composition, nutrient cycling, and energy flow.
+This can lead to cascading effects throughout the food web and ecosystem
+services.
+Extreme
+Events
+More frequent and intense weather events such as droughts, floods, and storms
+can directly impact biodiversity
+Exacerbate existing threats to biodiversity.
+4.3 Water Resources
+Climate change is profoundly impacting water resources in Nepal, presenting multifaceted challenges
+to the country's hydrological systems. With rising temperatures and shifting precipitation patterns,
+Nepal is witnessing alterations in the availability, distribution, and quality of its water sources. These
+shifts in water resources pose significant challenges to Nepal's socio-economic development and
+environmental sustainability, necessitating proactive measures to adapt to and mitigate the impacts
+of climate change on its water systems.
+Issues of Climate Change in Nepal
+30 | The Journal of Economic Concerns, Volume 15, Number 1
+Table 3: Effect of Climate Change on Water Resources in Nepal
+Effect on Water
+Resources Impact of Climate Change
+Precipitation
+Patterns
+Alterations in the timing, intensity, and distribution of precipitation affect
+water availability in Nepal.
+Changes in monsoon patterns impact the timing of rainfall, leading to
+fluctuations in river flow and groundwater recharge.
+Glacial Retreat &
+Melting
+Accelerated glacial retreat due to rising temperatures reduces the availability
+of meltwater from glaciers, affecting river flow
+Increased glacial melt also raises the risk of glacial lake outburst floods
+(GLOFs)
+Altered River
+Flow
+Fluctuations in river flow, affecting water availability for irrigation, drinking
+water supply, and hydropower generation
+Variability in river flow impacts water management and infrastructure.
+Water Quality
+Degradation
+Alteration of water temperature, sedimentation rates, and nutrient levels
+Increased runoff and sedimentation from extreme weather events degrade
+water quality in rivers and streams
+Water Scarcity
+Exacerbate water scarcity, particularly in dry seasons and regions with high
+reliance on seasonal water sources
+Water scarcity poses risks to agriculture, hydropower generation, and
+ecosystem health
+Aquatic
+Ecosystems
+Vulnerable species dependent on specific habitats are at risk due to alterations
+in water resources
+Aquatic ecosystems, including fish populations, aquatic plants, and
+biodiversity are decreasing.
+4.4 Health and Livelihoods
+Climate change is exerting profound effects on the health and livelihoods of people in Nepal,
+presenting complex challenges that intertwine environmental, social, and economic dimensions.
+Extreme weather events such as floods, landslides, and droughts are becoming more frequent and
+intense, posing risks to lives, property, and livelihoods. Disruptions to traditional livelihoods,
+including agriculture and livestock rearing, threaten economic stability and exacerbate poverty in
+rural communities. Additionally, limited access to healthcare services and infrastructure further
+compounds health risks, particularly in remote and marginalized areas. These affects can be
+summarized as follows.
+| 31
+Table 4: Impact of Climate Change on Health and Livelihoods
+Health &
+Livelihoods Impact of Climate Change
+Spread of
+Diseases
+Changing temperature and precipitation patterns create favorable conditions for
+the spread of vector-borne diseases such as dengue fever and malaria
+Increased incidence of disease outbreaks poses risks to public health and wellbeing
+Malnutrition
+Changes in temperature and precipitation patterns affect crop yields, leading to
+reduced agricultural productivity and food shortages
+Food insecurity exacerbates malnutrition and poses risks to vulnerable populations
+Waterborne
+Diseases
+Changes in precipitation patterns and water quality degradation increase the risk of
+waterborne diseases such as diarrhea and cholera
+Contaminated water sources pose health risks to communities, particularly during
+extreme weather events
+Mental
+Health
+Challenges
+Exposure to climate-related hazards, loss of livelihoods, and displacement due to
+natural disasters can contribute to stress, anxiety, and mental health issues
+4.5 Majorly Focused Areas in Literature
+Both academics and international development agencies have been keen on conducting studies
+on climate change and actions necessary in Nepalese contexts. However, the major focus areas of
+research from these entities appear to differ. From review of 20 literature on climate change in Nepal
+which included academically published papers and reports from various agencies, it was observed
+that academic papers are more focused on effects on agriculture while international agencies consider
+health and livelihoods of community more important.
+Table 5: Difference in Focus Areas of Academic Papers and IA Reports
+Academic Papers International Agencies
+1
+Major focus on effects of climate change
+on Agriculture
+Major focus on effects of climate change on
+livelihood
+2
+Secondary focus on water and
+hydropower Secondary focus on agriculture and hydropower
+3
+Consider areas that affect the whole
+economy of nation
+More importance to family economies and
+mountain economies
+4
+Provide recommendations and investment
+opportunities
+Mostly limited to situation analysis and
+problem identification
+This focus of academic papers on climate change on the agriculture sector due to its significant
+contribution to the country's economy, livelihoods, and food security. Agriculture is a primary source
+of income for a large portion of the population, particularly in rural areas, where subsistence farming
+is prevalent. Therefore, understanding the impacts of climate change on agriculture is crucial for
+informing adaptation strategies, mitigating risks, and ensuring sustainable agricultural practices.
+Issues of Climate Change in Nepal
+32 | The Journal of Economic Concerns, Volume 15, Number 1
+On the other hand, international agency reports may prioritize health and livelihoods in Nepal due
+to their broader scope and emphasis on human welfare and development outcomes. Furthermore,
+international agencies often have mandates to address global challenges such as poverty reduction,
+sustainable development, and public health, which align with their focus on health and livelihoods
+in the context of climate change.
+Overall, while academic papers and international agency reports may prioritize different aspects
+of climate change impacts in Nepal, both perspectives are essential for developing comprehensive
+strategies to address the multifaceted challenges posed by climate change and safeguard the wellbeing of the population.
+5. Conclusion
+Nepal faces formidable challenges from the impacts of climate change, ranging from altered weather
+patterns and glacial melt to socio-economic vulnerabilities and biodiversity loss. The country's rich
+natural heritage and the livelihoods of its people are at stake, necessitating urgent action at local,
+national, and global levels. While the Nepalese government has taken commendable steps to address
+climate change through policy frameworks, adaptation initiatives, and international cooperation,
+concerted efforts are required to overcome remaining obstacles and build a more resilient and
+sustainable future.
+The collection of literature reviewed underscores the urgency of addressing climate change
+challenges and implementing adaptation and mitigation measures to safeguard livelihoods,
+ecosystems, and vulnerable communities. From the alteration of weather patterns and glacial melt to
+shifts in agricultural practices and hydro-energy generation, Nepal faces complex and interconnected
+challenges that require holistic and proactive approaches. Furthermore, the literature highlights the
+importance of integrating traditional knowledge with scientific research and fostering collaboration
+between stakeholders at local, national, and international levels to effectively address climate change
+impacts.
+Academic papers predominantly focus on the effects of climate change on agriculture, recognizing
+its significance for the country's economy, food security, and livelihoods. On the other hand,
+international agency reports emphasize the impacts of climate change on health and livelihoods,
+reflecting their broader mandates and priorities in promoting human welfare and development.
+While there may be differences in focus areas between academic papers and international agency
+reports, both perspectives are vital for understanding the complex challenges posed by climate
+change in Nepal and developing holistic strategies to address them. By integrating insights from
+academic research and international agency reports, policymakers, practitioners, and stakeholders
+can collaborate effectively to mitigate the impacts of climate change and promote sustainable
+development in Nepal.
+| 33
+Limitations
+The study acknowledges certain limitations, including the reliance on secondary data which may
+have inherent biases. Additionally, the geographic and temporal scope of the research is constrained
+by the availability of climate data and access to remote regions for case studies. Despite these
+limitations, the study provides a comprehensive analysis of the multifaceted impacts of climate
+change in Nepal.
+Acknowledgements
+This paper was earlier presented in the 3rd National Economists’ Conference organized by the
+National Economic Concern Society, Nepal, on 5-6 April 2024 at Kathmandu.
+References
+Adhikari, D., Prasai, R., Lamichhane, S., Gautam, D., Sharma, S., & Acharya, S. (2021). Climate
+change impacts and adaptation strategies in Trans-Himalaya region of Nepal. Journal of Forest
+and Livelihood, 20(1), 16-30.
+Agrawala, S., Raksakulthai, V., Aalst, v. M., Larsen, P., Smith, J., & Reynolds, J. (2023). Development
+and Climate Change in Nepal: Focus on Water Resources and Hydropower. OECD.
+Asian Development Bank. (2020). Climate Risk Country Profile - Nepal. Washington. DC: Wrold
+Bank Group.
+Bhandari, S., Adhikari, B., Baral, K., Panthi, S., Kunwar, R., Thapa Magar, T., . . . Youlatos, D.
+(2022). Climate change threatens striped hyena (Hyaena hyaena) distribution in Nepal. Mammal
+Research, 67, 433-443.
+Bhattacharjee, A., Anadon, J. D., Lohman, D. J., Doleck, T., Lakhankar, T., Shrestha, B. B., . .
+. Krakauer, N. Y. (2017). The Impact of climate chage on biodiversity in Nepal: Current
+knowledge, lacunae and opportunities. Climate, 5(6), 80-95.
+Bhattarai, U., Devkota, L. P., Marahatta, S., Shrestha, D., & Maraseni, T. (2022). How will hydroenergy generation of the Nepalese Himalaya vary in the future? A climate change perspective.
+Environmental Research, 214(1).
+Chaudhary, P., & Aryal, K. (2022). Global Warming in Nepal: Challenges and Policy Imperatives.
+Kathmandu: ICIMOD.
+Climate Action. (2023). On Nepal’s slopes, villages brace for a worsening monsoon. Kathmandu:
+UN Environment Program.
+Climate Action. (2023, April). Science, Solutions, Solidarity for a Livable Plantet. Retrieved
+from United Nations: https://www.un.org/climatechange?gad_source=1&gclid=CjwK
+CAiAivGuBhBEEiwAWiFmYXWaS8Is3gsMLd-jiu2yHcmBnWXQcNZhwZYVau_
+T95e2hqNZLd742BoCoSUQAvD_BwE
+Issues of Climate Change in Nepal
+34 | The Journal of Economic Concerns, Volume 15, Number 1
+Dahal, N. (2010). Implications of Climate Change on Biodiversity in Nepal: Some Observations and
+Opportunities. Kathmandu: ICIMOD.
+Dahal, P., Shrestha, M. L., Pradhananga, D., & Panthi, J. (2020). Modeling the future impacts
+of climate change on water availability in the Karnali River Basin of Nepal Himalaya.
+Environmental Research, 185.
+Irfan, U. (2024, February 8). 2023 was the hottest year on record. It also pushed the world over a
+dangerous line. Vox.
+Kaczan, D., & Meyer, J. (2020). The impact of climate change on migration: a synthesis of recent
+empirical insights. Cimate Change, 158(3), 281-300.
+Lamsal, K., Chaudhary, P., & Bhandari, K. (2014). Climate Change Policy in Nepal: Challanges,
+Opportunities and Imperative. Pokhara: LI-BIRD.
+Malhi, G. S., Kaur, M., & Kaushik, P. (2021). Impact of Climate Change and Its Mitigation.
+Sustainability, 13(3).
+Matos, S., Viardot, E., Sovacool, B., Geels , F., & Xiong, Y. (2022). Innovation and climate change:
+A review and introduction to the special issue. Technovation, 117.
+Perera, A., Nik, V., Chen, D., Scartezznin, J.-L., & Hong, T. (2021). Quantifying the impacts of
+future climate variations and extreme climate events on energy systems. Nature Energy, 5(2),
+150-159.
+Rai, M. (2019). Climate change, its impact and adaptation strategies on agriculture in Mangaltar,
+Khotang district, Nepal. The Geography Base, 6, 58-73.
+Rayamajhee, V., Guo, W., & Bohara, A. K. (2021). The impact of climate change on rice production
+in Nepal. Economics of Disasters and Climate Change, 5, 111-134.
+Sapkota, R. (2016). Climate Change and its Impacts in Nepal. Kathmandu: Tribhuvan University.
+Shrestha, A., & Aryal , R. (2011). Climate change in Nepal and its impact on Himalayan glaciers.
+Regioal Environmental Change, 11, 65-77.
+Shrestha, U. B., Shrestha, A. M., Aryal, S., Shrestha, S., Gautam, M. S., & Ojha, H. (2019). Climate
+change in Nepal: a comprehensive analysis of instrumental data and people's perceptions.
+Climatic Change, 154(3), 315-334.
+Thapa, P. (2021). The relationship between land use and climate change: A case study of Nepal. The
+nature, causes, effects and mitigation of climate change on the environment.
+Watts, J. (2023, December 29). World will look back at 2023 as year humanity exposed its inability
+to tackle climate crisis. The Guardian.
+World Bank. (2022). Key Highlights: Country Climate and Development Report for Nepal. World
+Bank Group.

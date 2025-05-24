@@ -1,0 +1,932 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/377659114
+ Impacts of Climate Change on Temperature and Precipitation in Nepal:
+ Projections and Bias Correction
+ Article  in  Journal of Sustainability and Environmental Management · December 2023
+ CITATIONS
+ 0
+ 2 authors:
+ Madhav Joshi
+ University of Wyoming
+ 4 PUBLICATIONS   4 CITATIONS   
+SEE PROFILE
+ All content following this page was uploaded by Madhav Joshi on 24 January 2024.
+ READS
+ 621
+ Hari Dhital
+ Tribhuvan University
+ 2 PUBLICATIONS   2 CITATIONS   
+SEE PROFILE
+ The user has requested enhancement of the downloaded file.
+Original Article                              
+Journal of Sustainability and Environmental Management (JOSEM), Vol. 2, No. 4 (2023), 203 – 212 
+p-ISSN 2822-1729, e-ISSN 2822-1737                                                         
+Available online at https://www.nepjol.info/index.php/josem 
+Impacts of Climate Change on Temperature and Precipitation in 
+Nepal: Projections and Bias Correction 
+Hari Prasad Dhital1, Madhav Joshi2, Nabin Budhathoki2 
+1Institute of Engineering, Purwanchal Campus, Tribhuvan University 
+2Institute of Engineering, Kathmandu Engineering College, Tribhuvan University 
+*Corresponding author: haridhital34@gmail.com 
+Abstract: Climate change is likely to have a significant impact on Nepal, affecting its infrastructure, agriculture, and water 
+resources. This study created day-to-day bias-corrected data of precipitation (ppt), maximum temperature (tmax) and 
+minimum temperature (tmin) at 0.25° spatial resolution for Nepal using 7 CMIP6-GCMs under two shared socioeconomic 
+pathways, SSP245 and SSP585. The bias-corrected datasets were produced using an empirical robust quantile mapping 
+method for ppt and quantile mapping with linear transformation function method for tmax and tmin. The bias-corrected dataset 
+was evaluated by comparing it against observed data for the mean values of ppt, tmax and tmin. Our bias-corrected projections 
+reveal a warming of 4-6°C and an increase in ppt of 40-60% by the end of the 21st century. These changes will have a 
+significant impact on Nepal's climate, environment, and people. The bias-corrected projections can be used to assess the 
+impact of climate change in Nepal and to develop adaptation strategies. 
+Keywords: Climate change, Bias-Correction, CMIP6, Global Climate Model, Nepal 
+Conflicts of interest: None 
+Supporting agencies: None 
+Received 20.07.2023; Revised 18.09.2023; Accepted 02.11.2023 
+Cite This Article: Dhital, H.P., Joshi, M., & Budhathoki, N. (2023). Impacts of Climate Change on Temperature 
+and Precipitation in Nepal: Projections and Bias Correction. Journal of Sustainability and Environmental 
+Management, 2(4), 203-212. 
+1. Introduction 
+Climate change is a result of the air's ozone harming 
+substance groupings of CO2 and other ozone harming 
+substances increasing exponentially (Malla, 2008). It 
+poses a critical global challenge, affecting ecosystems, 
+economies, and the livelihoods of millions. In this context, 
+understanding the impacts of climate change at regional 
+levels becomes paramount. This study explores the 
+specific case of Nepal, a nation with unique geographical 
+diversity and a pronounced vulnerability to climate 
+change. As per projections, climate change will influence 
+the quality and quantity of water in the future (Pandey et 
+al., 2020). Lately climate change in Nepal has brought a 
+quick rise in temperature, an unpredictable pattern of ppt, 
+a more limited winter, and more frequent and prolonged 
+droughts (Palazzoli et al., 2015). So, accurate projections 
+for this region are essential for informed decision-making 
+and mitigation efforts. 
+Nepal's geography is diverse, ranging from lowlands in 
+the south to towering Himalayan peaks in the north 
+(Shrestha et al., 2016). It is also a country with a high 
+level of biodiversity and one of the nations that are acutely 
+responsive and exposed to the consequences of climate 
+change. As a result of global warming, Nepal has seen an 
+increase in hydrometeorological extremes, a shift in the 
+pattern of ppt, and a rapid rise in temperature 
+(Talchabhadel and Karki, 2019). Nepalese environmental 
+change research predicts that temperature is supposed to 
+rise steadily all throughout the 21st century (Shrestha et 
+al., 2016). The average annual temperature in Nepal is 
+expected to ascend by 1.2°C, 1.7°C, and 3°C from the 
+benchmark time of 1961–1990 in 2030, 2050, and 2100, 
+respectively, as per research by the Organization for 
+Economic Cooperation and Development (OECD). 
+Comparative projections for annual precipitation for the 
+same time periods incorporate increments of 5, 7, and 
+12% (Khadka and Pathak, 2016). Such changes affect 
+diverse sectors, including agriculture, public health, and 
+the sustainability of mountain ecosystems (Malla, 2008). 
+To understand the complex interplay of climate factors 
+in Nepal, we rely on General Circulation Models (GCMs), 
+which are mathematical models that simulate the 
+circulation of the Earth's atmosphere, providing insights 
+into past, present, and future climate trends (Christensen et 
+al., 2008; Y. Mishra et al., 2018; Mishra et al., 2020). 
+However, these models often work at spatial resolutions 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+203 
+Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction 
+that are insufficient for precise regional assessments, and 
+they may contain biases in temperature and precipitation 
+(Christensen et al., 2008; Mishra et al., 2018; Mishra et 
+al., 2020; Timilsina et al., 2021). Thus, to produce reliable 
+assessments of climate change and its impacts, the 
+application of bias correction techniques becomes 
+imperative (Christensen et al., 2008; Mishra et al., 2020). 
+The primary objective of this study is to generate 
+accurate projections of daily ppt, tmax and tmin for Nepal. 
+Using information from seven different CMIP6-GCMs, 
+we employ advanced bias correction techniques (quantile 
+mapping with a linear transformation function and 
+empirical robust quantile mapping) to refine these 
+projections. By evaluating historical data and examining 
+future scenarios (SSP245 and SSP585), our research seeks 
+to shed light on Nepal's climate change projections across 
+its varied landscapes, spanning the near future (NF) 
+(2023-2048), mid future (MF) (2049-2074), and far future 
+(FF) (2075-2100). These findings are vital not only for 
+policymakers, but also for stakeholders engaged in 
+crafting strategies to address Nepal's evolving climate and 
+precipitation patterns. 
+2. Materials and methods 
+2.1. Study area 
+Our study focuses on Nepal, a landlocked country 
+located in South Asia, covering a total area of 147,516 
+square kilometers. Nepal's geographic coordinates extend 
+from approximately 26°22' to 36°27' latitude and 80°4' to 
+88°12' longitude (Devkota et al., 2006). Nepal's 
+topography is characterized by remarkable variation, 
+primarily categorized into three distinct regions: the Terai 
+region, which comprises the lowlands and lies at 
+elevations below 610 meters; the Hilly region, 
+characterized by elevations ranging from 610 meters to 
+4,877 meters; and the Himalayan region, which includes 
+the towering peaks of Nepal, reaching elevations from 
+4,877 meters to the country's highest point at 8,848 meters 
+above sea level (Devkota et al., 2006). The nation is 
+primarily drained by three major river basins: the Koshi, 
+Narayani, and Karnali. These river basins, in turn, 
+contribute to the larger Ganges River basin (Devkota et 
+al., 2006). The map of the study area is shown in figure 
+below. 
+Figure 1: Topographical relief map for bias-corrected 
+CMIP6 projections. (a) Nepal political map with 
+topographical color scale in the background. 
+2.2. Data sources 
+Temperature and precipitation Data 
+To ensure the reliability of our historical temperature 
+data, we gathered observed daily ppt, tmax and tmin 
+records from a network of 216 weather stations spanning 
+Nepal. These observations cover the period from 1980 to 
+2014 and were originally compiled by Sheffield et al. in 
+2006 (Sheffield et al., 2006). Additionally, we acquired 
+data for 18 specific stations located within the Narayani 
+River basin from the Department of Hydrology and 
+Meteorology (DHM). We also gathered data from 18 
+specific weather stations situated within the Narayani 
+River basin. To make sure this data was reliable, we 
+carefully compared it to Sheffield's dataset. We found that 
+the two datasets matched quite closely. Further, another 
+study by (Shah et al., 2016) also confirmed that Sheffield's 
+dataset aligns well with weather station data across South 
+Asia. Considering the sparse distribution of weather 
+stations, particularly within the challenging terrain of the 
+Himalayan region, and recognizing gaps in observational 
+data, we concluded that employing the dataset from 
+(Sheffield et al., 2006) as our observational reference was 
+the most prudent choice for this research. 
+GCMs (CMIP6) data 
+This study used historical (1980-2014) data and future 
+(2015-2100) projections of CMIP6 GCMs for all three 
+variables: ppt, tmax and tmin. The temperatures and 
+precipitation variables are established based on two 
+scenarios i.e, SSP245 and SSP585.  The scenarios used in 
+the CMIP6 combine Share Socioeconomic Pathway (SSP) 
+and aim for a specific level of radioactive forcing by the 
+end of the 21st century. SSP245 is based on the 
+socioeconomic pathway (SSP-2) with the target 
+radioactive level of 4.5 W/m² (Gidden et al., 2019) and 
+SSP585 is based on emission scenarios SSP-5 and 
+radioactive level of 8.5 W/m² (Gidden et al., 2019; V. 
+Mishra et al., 2020). The CMIP6 projections exhibit 
+improved accuracy for ppt and temperature uncertainties 
+compared to CMIP5 (Hamed et al., 2022). We chose 7 
+CMIP6-GCMs to obtain raw daily ppt, tmax and tmin from 
+https://nex-gddp-cmip6.s3.us-west-2.amazonaws.com/.  
+Incorporating multiple GCMs helps to mitigate the 
+inherent biases present in the GCMs. 
+The overall methodology of this study is shown in 
+Figure 2. The major activities involved are: 
+Acquisition of data: The observed data and GCMs data 
+set were acquired. The observed data consisted of daily 
+ppt, tmax and tmin of 216 stations all across Nepal at the 
+spatial resolution of 0.25° for the period of 1980 to 2014. 
+The GCMs data consisted of historical (1980-2014) and 
+future (2015-2100) projections of temperature and 
+precipitation for seven CMIP6-GCMs. 
+204 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+ Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction  
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  205 
+ 
+Selection of stations: The stations for the observed data 
+were selected based on their availability and 
+representativeness of the different climatic zones in Nepal. 
+Selection of GCMs: The GCMs were selected based on 
+their availability of all three variables (ppt, tmax and tmin) 
+for both SSP245 and SSP585 scenarios. 
+Bias correction: The GCMs data was bias-corrected 
+using the quantile mapping method. 
+Projection of future climate: The bias-corrected GCMs 
+data was used to project future climate change in Nepal 
+for the three future periods: Near Future (NF, 2023-2048), 
+Mid Future (MF, 2049-2074), and Far Future (FF, 2076
+2100). 
+ 
+ 
+ 
+Figure 2: Methodological flowchart of the study 
+ 
+GCMs Selection  
+ 
+We chose seven CMIP6 General Circulation Models 
+(GCMs) for ppt, tmax and tmin. Multiple GCMs helps us 
+reduce uncertainties that can be inherent in these models. 
+Seven GCMs were deemed sufficient to start with. Our 
+selection of these seven GCMs was based on their ability 
+to provide daily tmax, tmin and ppt data for historical 
+periods as well as two future scenarios, SSP245 and 
+SSP585 under r1i1p1f1 initial conditions. They have also 
+been widely used in climate change studies for the South 
+Asian region (V. Mishra et al., 2020). To assess how well 
+these GCMs performed, we used historical observed 
+monthly mean tmax, tmin and ppt data from the period 
+1980 to 2014 as a reference. This allowed us to evaluate 
+the accuracy of the GCMs in representing real-world 
+climate conditions. Here's a table showing which different 
+CMIP6 models we used in our study: 
+ 
+Table 1. CMIP6-GCMs used for bias correction 
+  
+S.N. Model Name Country Latitude (°) Longitude (°) Research Centre 
+1 ACCESS-CM2 Australia 0.25 0.25 Australian Community Climate and Earth 
+System Simulator (ACCESS) 
+2 ACCESS
+ESM1-5 Australia 0.25 0.25 Australian Community Climate and Earth 
+System Simulator (ACCESS) 
+3 INM-CM5-0 Russia 0.25 0.25 Institute of Numerical Mathematics (INM) 
+4 MPI-ESM1-HR Germany 0.25 0.25 Max Planck Institute of Meteorology 
+5 MPI-ESM1-LR Germany 0.25 0.25 Max Planck Institute of Meteorology 
+6 NESM3 China 0.25 0.25 NUIST Earth System Model 
+7 NorESM2-LM Norway 0.25 0.25 Norwegian Climate Centre 
+ 
+ 
+ 
+SSP selection 
+ 
+In our research, we specifically chose to focus on two 
+climate scenarios, SSP245 and SSP585, because they 
+represent contrasting pathways for our planet's future. 
+SSP245, resembling a more cautious approach, targets a 
+moderate environmental impact with a radiative forcing 
+goal of 4.5 W/m² by the century's end (Gidden et al., 
+2019). On the other hand, SSP585 represents a less 
+cautious scenario with a higher radiative forcing target of 
+8.5 W/m² by the end of the century (Gidden et al., 2019; 
+Mishra et al., 2020). By studying these two scenarios, we 
+aim to understand and compare the potential climate 
+outcomes for Nepal under different levels of 
+environmental concern and action. 
+ 
+Bias correction methods 
+ 
+Uncertainties in the climate model make it challenging 
+to predict future climate accurately, so to address this 
+issue, bias correction is employed (Muerth et al., 2013). 
+For modifying RCM output, bias correction processes use 
+a transformation algorithm. The primary objective is to 
+identify any biases between observed and simulated 
+climatic variables. These corrected output will serve as the 
+foundation for both control and scenario RCM runs 
+(Teutschbein and Seibert, 2012). Several bias correction 
+methods have been developed for precipitation and 
+temperature (Gudmundsson et al., 2012; Luo et al., 2018; 
+Timilsina et al., 2021). Precipitation correction methods 
+includes Daily Bias Correction (DBC), Quantile Mapping, 
+Local Intensity Scaling (LOCI), Distribution Mapping 
+(DM), LS and PT. Similarly, DM, DT, EQM, LS, quantile 
+mapping (QM), multiple regression and gamma-gamma 
+transformation are used for temperature correction 
+(Gudmundsson et al., 2012; Luo et al., 2018). For this 
+study, we used quantile mapping tools. Numerous 
+Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction 
+researches identify the quantile mapping tools are the most 
+effective tools in removing biases. (Teutschbein and 
+Seibert, 2012; Zollo et al., 2014; V. Mishra et al., 2020). 
+We implement Empirical Robust Quantile mapping 
+technique for bias correction of historical (1980-2014) for 
+precipitation using data by Sheffield et al.  This approach 
+extends the empirical quantile mapping method by using 
+non-linear local linear least square (NLLS) regression to 
+establish a quantile-quantile link between historical 
+observed and modelled time series data. The quantile 
+mapping method provides robust framework for correcting 
+biases and enhancing the reliability of climate projection. 
+The estimation of a flexible quantile mapping function g() 
+such that F-1(τ)=g[F-1(τ)] is done using NLLS based on 
+the ten closest data points indicated in the quantile
+quantile plot for each quantile level τ = 0, 0.01, 0.02,….., 
+0.99, 1.0. The future projection at time ‘t’ is then derived 
+through the expression: 
+x(t)=g[x(t) (Qian and Chang, 2021). 
+For temperature bias correction, the Linear 
+transformation function is employed. According to 
+(Timilsina et al., 2021) linear transformation function 
+shows better performance than other methods, so we 
+choose it as a best performing bias correction method for 
+temperature. The Linear QM framework assumes a linear 
+connection between quantile functions of observed values 
+and the model over the historical period. Mathematically, 
+this relationship us expressed as,  
+F-1(τ) = a + b*F-1(τ), 
+Where coefficients ‘a’ and ‘b’ are derived through a 
+linear least square regression. Consequently, bias 
+corrected future projections at time ‘t’ are calculated as, 
+x(t) = a + b*x(t). 
+Challenges  
+Obtaining accurate and reliable historical climate data for 
+bias correction across Nepal posed a considerable 
+challenge, particularly in remote and higher Himalayan 
+regions. In particular, we encountered gaps in the daily 
+data from the Department of Hydrology and Meteorology 
+(DHM) for the Narayani River basin for the years 
+spanning from 1980 to 2014. To address these gaps, we 
+used average data of each month over the long period. 
+Additionally, to ensure data accuracy, we meticulously 
+cross-verified Sheffield's dataset with DHM's data. This 
+was done to guarantee the reliability and consistency of 
+the climate data we used for our research. Furthermore, 
+managing extensive datasets and handling complex 
+computations throughout the research process presented 
+significant hurdles. These challenges are inherent in 
+climate research, but require careful attention and 
+resources to navigate effectively. 
+3. Results 
+We began by examining how ppt, tmax and tmin might 
+change in the future. We used data from seven different 
+climate 
+models (CMIP6-GCMs) to make these 
+predictions. We looked at two different scenarios, SSP245 
+and SSP585, and divided the future into three timeframes: 
+NF, MF and FF. We compared these future projections to 
+the past, specifically from 1989 to 2014. The combined 
+results from all the models suggest that annual ppt in 
+Nepal could increase by about 40-60% in the later part of 
+the 21st century, especially under the SSP585 scenario. 
+How much the rain increases, along with how hot it gets, 
+depends on the scenario. For example, in the Far Future, 
+under SSP245, tmin might go up by around 2°C. 
+However, under SSP585, the increase could be as much as 
+4°C. Similarly, tmax could rise by about 2-4°C by the end 
+of the 21st century. Figure 3 below shows the change in 
+more detail. 
+Figure 3: Projections of ppt tmax and tmin for the NF, 
+MF and FF using raw output from CMIP6-GCMs. (a-f) 
+Multi-model ensemble (MME) mean projected change in 
+mean ppt for the NF, MF and FF with respect to the 
+historical period (1989-2014), (g-l) same as (a-f) but for 
+mean annual t¬¬¬¬¬min, (m-r) same as (a-f) but for the 
+mean annual tmax. Median of all three variables is shown 
+in each panel.  
+We started with raw climate data for ppt, tmax, and 
+tmin. This data was essential for understanding how 
+Nepal's climate might change in different future scenarios. 
+However, this raw data has some inaccuracies, so we 
+needed to remove inherent biases. Bias correction helps 
+make the data more accurate, especially at the local level. 
+We did this correction for both the past (1980-2014) and 
+the future (2015-2100) under two different scenarios: 
+SSP245 and SSP585. After correcting the data, we 
+estimated the multi-model ensemble mean bias in ppt, 
+206 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction  
+tmax and tmin from all 7 CMIP6-GCMs (Fig. 4). The bias 
+was compared against observed data from Sheffield et al. 
+(2006). Before the correction, we noticed that the raw data 
+tended to overestimate ppt in most of Nepal (Fig. 4a). On 
+the other hand, it underestimated both tmax and tmin in 
+many areas (Fig. 4c, f). After applying bias-correction 
+methods, the bias was eliminated to some extent in all 
+three variables (mean annual ppt, tmax and tmin) (Fig. 4b, 
+d, f). 
+Figure 4: MME mean bias in ppt, tmax and tmin in 7 
+CMIP6-GCMs. (a-b) Bias (%) in mean annual ppt for the 
+historical period (1985-2014) before and after the bias 
+correction, (c,d) Bias (°C) in mean annual tmin before and 
+after bias correction, and (e,f) bias (°C) in mean annual 
+tmax before and after bias correction. 
+After that, when we corrected the ppt data for three 
+aforementioned future time period, we found that it still 
+showed similar patterns to the raw data from the climate 
+models (Fig. 3). This means that both the raw and 
+corrected data indicate that southwestern Nepal will likely 
+see a significant increase in annual ppt, with the Terai 
+region being the most affected. Under SSP585, the 
+increase in ppt is even more pronounced compared to 
+SSP245 (Fig. 5a-f). For temperature, we found that annual 
+mean tmin is expected to rise by about 2.84°C under 
+SSP245 and 5.42°C under SSP585 (Fig. 5g-l). Similarly, 
+annual mean tmax is expected to increase significantly, 
+with SSP585 predicting a median increase of more than 
+4.8°C across Nepal (Fig. 5m-r). 
+Figure 5: Projections of ppt, tmax and tmin for the NF, MF 
+and FF using bias corrected output from CMIP6-GCMs. 
+(a-f) MME mean projected change in mean annual ppt for 
+the near, mid and far future with respect to the historical 
+period (1989-2014), (g-l) same as (a-f) but for mean 
+annual tmin, (m-r) same as (a-f) but for the mean annual 
+tmax. Median of the MME mean ppt, tmax and tmin are 
+shown in each panel. Projected changes were estimated 
+for the two scenarios (SSP245 and SSP585) against the 
+historical period. 
+We calculated month-wise multi-model ensemble mean 
+of bias-corrected ppt, tmax and tmin from the CMIP6
+GCMs for the period of 1985-2014. Then, we compared 
+these corrected values ppt, tmax and tmin with 
+observations from the same time period. What we found is 
+that the patterns of monthly ppt, tmax and exhibit similar 
+patterns to the observed dataset (Fig. 6). 
+207 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction 
+Figure 5: Month-wise cycle of bias-corrected ppt, tmax 
+and tmin. Comparison of the MME (blue) mean month
+wise cycle of bias-corrected (a) ppt, (b) tmax, and (c) tmin 
+against the observations for the 1985-2014 period (red). 
+The shaded area represents the level of uncertainty, which 
+has been estimated using one standard deviation, based on 
+7 CMIP6-GCMs. 
+For further analysis, we used a 30-year window to 
+analyze data for different parts of the country. We focused 
+on the most concerning scenario, SSP585, which 
+represents the worst-case situation. We looked at each 30
+year period, starting from 1986-2015 and continuing 
+through to 2100, comparing it to the reference period of 
+1985-2014. This allowed us to estimate how things might 
+change over time. Our findings indicate that across all 
+regions of Nepal, we can expect an increase in average 
+annual ppt in the future. By the end of the 21st century, 
+this increase could be substantial, ranging from 40-60%. 
+However, it's important to note that there is more 
+uncertainty in the projections for the Terai region 
+compared to other parts of Nepal. On the other hand, the 
+uncertainty in projections for tmax and tmin is much 
+lower than that of ppt. We anticipate that both tmax and 
+tmin could rise significantly, by around 4-6°C, in the far 
+future. These changes in temperature and ppt have 
+important 
+implications 
+environment. 
+for 
+Nepal's climate and 
+Figure 6: MME mean change in ppt, tmax and tmin in Nepal. Region-wise changes in the MME mean annual ppt (%), 
+tmax (°C), and tmin (°C) estimated using a 30-year moving window against the historical reference period of 1985-2014. 
+The shaded area represents the level of uncertainty, estimated using one standard deviation, based on 7 CMIP6-GCMs.
+ 208 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+ Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction  
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  209 
+ 
+ 
+We looked at how three important climate factors - ppt, 
+tmax and tmin - are expected to change in different 
+regions of Nepal over time. We compared these future 
+projections with the past to understand the changes better. 
+In the NF, under the SSP245 scenario, we expect an 
+increase in annual ppt of about 10-21%. The Terai region 
+will see the most significant increase, while the Mountain 
+region will have the smallest rise. In the FF, ppt is 
+projected to increase significantly in all regions of Nepal, 
+by around 40-60% (Table 2). When it comes to 
+temperature, we anticipate a noticeable difference between 
+the NF and FF. In the NF, under SSP245, tmax may rise 
+by 0.62-1.27°C (Table 3), while tmin could go up by 1.05
+1.47°C (Table 4). However, in the FF under SSP585, the 
+increase in tmax could be as high as 4.4-5.21°C, and 
+minimum tmin may rise by 5.15-6.16°C. We also 
+calculated the standard deviation to understand the level of 
+uncertainty in these projections for each region and time 
+period under both scenarios. 
+ 
+Table 2: Region wise MME mean projected change in 
+mean annual ppt (%) against historical mean (1985-2014) 
+with uncertainty (one standard deviation) based upon 
+corrected data from 7 CMIP6-GCMs. 
+ 
+Region Mountain  Hill  Terai 
+Historic(mm
+ ) 998.37 1480.21 1521.44 
+ssp245 
+ 
+ 
+NF 11.44±25.3
+ 2 
+15.09±28.6
+ 9 
+20.49±32.1
+ 6 
+MF 15.45±24.7
+ 5 
+18.76±27.3
+ 1 22.8±31.74 
+FF 17.45±26.6
+ 1 
+22.58±30.1
+ 3 
+30.36±35.0
+ 8 
+ssp585 
+ 
+ 
+NF 10.72±24.3
+ 5 14.33±26.2 20.71±29.8
+ 6 
+MF 19.39±23.6
+ 4 
+23.96±26.5
+ 9 
+32.12±31.3
+ 1 
+FF 40.45±31.6
+ 2 
+47.48±35.3
+ 2 
+59.97±43.3
+ 0 
+ 
+ 
+Table 3: Region wise MME mean projected change in 
+mean annual tmax (°C) against historical mean (1989
+2014) with uncertainty (one standard deviation) based 
+upon corrected data from 7 CMIP6-GCMs. 
+ 
+Region Mountain  Hill  Terai 
+Historic(°C) 9.77 22.37 30.56 
+ssp245 
+ 
+ 
+NF 1.27±0.64 0.96±0.63 0.62±0.63 
+MF 2.32±0.76 2.05±0.77 1.8±0.76 
+FF 2.81±0.82 2.53±0.87 2.29±0.93 
+ssp585 
+ 
+ 
+NF 1.52±0.67 1.15±0.7 0.77±0.76 
+MF 3.21±0.88 2.85±0.93 2.5±0.98 
+FF 5.21±1.24 4.79±1.32 4.4±1.42 
+ 
+Table 4: Same as Table 3 but for mean annual tmin. 
+ 
+Region Mountain  Hill  Terai 
+Historic(°C) -3.28 10.36 18.75 
+ssp245 
+ 
+ 
+NF 1.47±0.65 1.19±0.58 1.05±0.56 
+MF 2.55±0.83 2.19±0.76 2.06±0.75 
+FF 3.22±0.89 2.81±0.84 2.65±0.86 
+ssp585 
+ 
+ 
+ 
+NF 1.73±0.60 1.4±0.55 1.24±0.58 
+MF 3.74±0.88 3.25±0.85 3.08±0.87 
+FF 6.16±1.25 5.39±1.24 5.15±1.28 
+4. Discussion 
+The results obtained from 7 CMIP6-GCMs provide 
+valuable information about the projected changes in ppt, 
+tmax and tmin in Nepal under different scenarios 
+(SSP245, SSP585) and different time periods (NF, MF 
+and FF). Based on bias corrected ppt projection, the Terai 
+region is expected to have highest increase in ppt, while 
+the Mountain region has the smallest increase in ppt 
+(Table 2).  Under SSP585 scenario across all the regions 
+of Nepal, there will be substantial (40-60%) increase in 
+ppt in late 21st century, whereas in the case SSP245 
+scenario, there will be less increase in ppt. This finding 
+shows a line with global change pattern, which indicates a 
+shift towards wetter condition in different geographical 
+regions of Nepal in the 21¬-st century. In the case of tmax 
+and tmin, this study showed increasing trend in 
+temperature in Nepal throughout the 21st century (Figure 
+4). The bias corrected MME annual tmax and tmin are 
+projected to rise by 4-6°C the end of 21st century (Figure 
+6). This indicates that there will be hotter climatic 
+condition in future in Nepal. 
+ 
+Implications 
+ 
+The projected alterations in precipitation and 
+temperature are poised to have far-reaching consequences 
+across numerous sectors in Nepal, including agriculture, 
+water resources, and infrastructure. The anticipated 
+increase in ppt is a double-edged sword. On one hand, it 
+can be beneficial for agriculture by providing more water 
+for crops. However, it also elevates the risk of floods, 
+landslides, and soil erosion, which could harm both 
+agricultural activities and infrastructure (Karki et al., 
+2012). The rise in temperature, on the other hand, presents 
+challenges for agriculture. It's expected to bring about 
+increased evaporation rates, greater water stress, and 
+alterations in crop growth patterns. These negative effects 
+are likely to be most pronounced in the mountainous and 
+hilly regions of Nepal, where agriculture plays a crucial 
+role in livelihoods.  
+Additionally, the projected increase in ppt has 
+implications for Nepal's water resources. It could lead to 
+higher runoff, potentially causing flooding in certain 
+areas. Conversely, the increased evaporation rates might 
+Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction 
+result in water shortages in other regions. These changes 
+could significantly affect access to water for various 
+purposes, including drinking, irrigation, and hydropower 
+generation. Furthermore, the heightened risk of flooding 
+and landslides poses a threat to infrastructure elements 
+such as roads, bridges, and related constructions. These 
+challenges underscore the importance of proactive 
+planning and adaptation measures to address the potential 
+impacts on these critical sectors. 
+Policy and adaptation implications 
+The findings of this study carry significant implications 
+for policy formulation and adaptation strategies in Nepal, 
+especially in the context of climate change. As noted by 
+Timilsina et al. (2021), even modest increases in 
+temperature can usher in substantial shifts in climate 
+patterns. Consequently, this study underscores the urgent 
+need for timely policy development and proactive 
+adaptation measures to mitigate the potentially severe 
+impacts of evolving climatic conditions. 
+Nepal's government stands at a critical stage where it 
+must proactively address the challenges posed by climate 
+change. Policymakers are urged to prioritize the 
+development of comprehensive policies and strategies 
+designed to alleviate the adverse effects of climate change 
+on key sectors such as agriculture, water resources, and 
+infrastructure. These policies should be rooted in a holistic 
+approach, encompassing both mitigation and adaptation 
+measures. 
+Effective policies should prioritize the enhancement of 
+sectoral resilience to climate change impacts. For 
+agriculture, this could entail investments in improved 
+irrigation infrastructure, sustainable farming practices, and 
+diversification of crops to adapt to changing conditions. 
+Likewise, measures to conserve water resources and 
+manage them more efficiently will be crucial for ensuring 
+continued access to water for various purposes, including 
+drinking and irrigation. 
+In light of the increased risk of flooding and landslides, 
+the establishment of robust early warning systems is 
+imperative. These systems should be region-specific and 
+capable of delivering timely alerts to vulnerable 
+communities. Adequate preparedness and response 
+mechanisms must also be in place to minimize casualties 
+and damages. 
+In summary, the study's findings accentuate the urgency 
+for Nepal to take proactive steps in aligning its policies 
+and adaptive strategies with the evolving climate. Timely 
+and well-informed action can help mitigate the potential 
+adverse consequences on agriculture, water resources, and 
+infrastructure, ultimately contributing to the resilience and 
+sustainable development of the nation in the face of a 
+changing climate. 
+Comparative analysis 
+Our study shows a significant increase in mean annual 
+ppt, particularly in the Karnali (Western Region). This 
+aligns with the findings of Chapagain et al. (2021), which 
+also projected higher yearly ppt in the Karnali region. This 
+consistency in results suggests a similar trend in different 
+studies, emphasizing the reliability of our findings. Karki 
+et al. (2012) previously reported that climate change 
+would lead to higher temperatures in Nepal. Our study's 
+projections also confirm this trend. Moreover, when 
+comparing the SSP585 scenario with the SSP245 scenario, 
+our research reveals that the annual increase in tmax and 
+tmin is projected to nearly double in all geographical 
+regions of Nepal by the end of the 21st century (see Table 
+3 and Table 4). This highlights the increasing challenges 
+related to rising temperatures. 
+Addressing uncertainties 
+It's essential to acknowledge that uncertainties still 
+exist, as is common in climate research. While our bias 
+correction method enhances the reliability of our 
+projections, the inherent uncertainties in General 
+Circulation Models (GCMs) persist (Moghim et al., 2017). 
+We mitigated some uncertainties by using multiple 
+models, but there may still be some associated with the 
+specific models we selected (Tebaldi and Knutti, 2007). 
+Additionally, the coarse resolution of GCMs limits their 
+ability to provide detailed spatial information. Nepal's 
+diverse topography demands higher-resolution data to 
+accurately capture local climate variations. 
+5. Conclusion 
+The projected climate data obtained by using 7 CMIP6
+GCMs predict warmer and wetter climatic conditions in 
+Nepal for two emission scenarios i.e., SSP245 and 
+SSP585, adopting quantile mapping (QM) for bias 
+correction. Ppt, tmax and tmin data were projected based 
+on different time periods (NF, MF and FF) under two 
+scenarios. The findings suggest that there is significant 
+increase in ppt by 40-60% and warming trend of 
+temperature with projected rise 4-60C at the end of 21st 
+century. Across three geographical regions of Nepal, Terai 
+region is projected to have higher ppt than other regions. 
+In both raw and bias-corrected dataset, there was a 
+significant rise in mean annual ppt in the southwestern 
+parts of Nepal. Under SSP585 scenario, it is predicted that 
+the ensemble mean tmax is going to upsurge remarkably 
+all over Nepal. Rising temperature and increase in ppt will 
+affect the water resources availability. Projected dataset of 
+ppt, t¬¬max and t¬min have notable implication for 
+infrastructure 
+planning, resource management and 
+livelihood of the people in Nepal. Bias-corrected 
+projection provide better understanding for the lawmakers 
+to understand the potential impacts of climate change and 
+to formulate mitigating strategies to reduce possible 
+effects. 
+Acknowledgements 
+210 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction  
+14(16). 
+The completion of this paper and the underlying 
+research would not have been possible without the 
+invaluable guidance and assistance provided by our 
+esteemed supervisor, Nirajan Devkota. His expertise, and 
+meticulousness have served as a source of motivation, 
+ensuring the progression of our work from its initial 
+inception to the ultimate completion of this manuscript. 
+Our colleagues, Gopal Thakur and Govinda Bhattarai, 
+from Tribhuvan University, have also reviewed our 
+transcriptions and responded to numerous inquiries with 
+unwavering patience. Bibek Karki, RF engineer and tutor, 
+not only helped us in making our data processing code 
+concise but also shared the invaluable information and 
+insights about research writing process. 
+Finally, we acknowledge the data availability from 
+(Sheffield et al., 2006) and Nepal shapefile from 
+https://rds.icimod.org/home/datadetail?metadataid=1597. 
+CMIP6 models data from https://nex-gddp-cmip6.s3.us
+west-2.amazonaws.com/  is greatly acknowledged. 
+References 
+Chapagain, D., Dhaubanjar, S., & Bharati, L. (2021). 
+Unpacking future climate extremes and their 
+sectoral implications in western Nepal. Climatic 
+Change, 168(1–2), 8. 
+Christensen, J. H., Boberg, F., Christensen, O. B., & 
+Lucas‐Picher, P. (2008). On the need for bias 
+correction of regional climate change projections 
+of temperature and precipitation. Geophysical 
+Research Letters, 35(20). 
+Devkota, B. D., Paudel, P., Omura, H., Kubota, T., & 
+Morita, K. (2006). Uses of Vegetative Measures 
+for Erosion Mitigation in Mid Hill Areas of 
+Nepal, 59. 
+Gidden, M. J., Riahi, K., Smith, S. J., Fujimori, S., 
+Luderer, G., Kriegler, E., van Vuuren, D. P., van 
+den Berg, M., Feng, L., Klein, D., Calvin, K., 
+Doelman, J. C., Frank, S., Fricko, O., Harmsen, 
+M., Hasegawa, T., Havlik, P., Hilaire, J., Hoesly, 
+R., … Takahashi, K. (2019). Global emissions 
+pathways 
+under 
+different 
+socioeconomic 
+scenarios for use in CMIP6: A dataset of 
+harmonized emissions trajectories through the 
+end of the century. Geoscientific Model 
+Development, 
+12(4), 
+1443–1475. 
+https://doi.org/10.5194/gmd-12-1443-2019 
+Gudmundsson, L., Bremnes, J. B., Haugen, J. E., & Engen 
+Skaugen, 
+T. 
+(2012). 
+Technical 
+Note: 
+Downscaling RCM precipitation to the station 
+scale using quantile mapping – a comparison of 
+methods 
+[Preprint]. 
+Hydrometeorology/Mathematical 
+applications. 
+https://doi.org/10.5194/hessd-9-6185-2012 
+Hamed, M. M., Nashwan, M. S., Shiru, M. S., & Shahid, 
+S. (2022). Comparison between CMIP5 and 
+CMIP6 Models over MENA Region Using 
+Historical Simulations and Future Projections. 
+Sustainability, 
+https://doi.org/10.3390/su141610375 
+Karki, R., & Gurung, Dr. A. (2012). An Overview of 
+Climate Change and Its Impact on Agriculture: A 
+Review From Least Developing Country, Nepal. 
+International Journal of Ecosystem, 2, 19–24. 
+https://doi.org/10.5923/j.ije.20120202.03 
+Khadka, D., & Pathak, D. (2016). Climate change 
+projection for the marsyangdi river basin, Nepal 
+using statistical downscaling of GCM and its 
+implications in geodisasters. Geoenvironmental 
+Disasters, 
+3(1), 
+15. 
+https://doi.org/10.1186/s40677-016-0050-0 
+Luo, M., Liu, T., Meng, F., Duan, Y., Frankl, A., Bao, A., 
+& De Maeyer, P. (2018). Comparing Bias 
+Correction Methods Used in Downscaling 
+Precipitation and Temperature from Regional 
+Climate Models: A Case Study from the Kaidu 
+River Basin in Western China. Water, 10(8), 
+Article 8. https://doi.org/10.3390/w10081046 
+Malla, G. (2008). Climate change and its impact on 
+Nepalese agriculture. Journal of Agriculture and 
+Environment, 9, 62–71. 
+Mishra, V., Bhatia, U., & Tiwari, A. D. (2020). Bias
+corrected climate projections for South Asia from 
+coupled model intercomparison project-6. 
+Scientific Data, 7(1), 338. 
+Mishra, Y., Nakamura, T., Babel, M. S., Ninsawat, S., & 
+Ochi, S. (2018). Impact of climate change on 
+water resources of the Bheri River Basin, Nepal. 
+Water, 10(2), 220. 
+Moghim, S., McKnight, S. L., Zhang, K., Ebtehaj, A. M., 
+Knox, R. G., Bras, R. L., Moorcroft, P. R., & 
+Wang, J. (2017). Bias-corrected data sets of 
+climate model outputs at uniform space–time 
+resolution for land surface modelling over 
+Amazonia. International Journal of Climatology, 
+37(2), 621–636. https://doi.org/10.1002/joc.4728 
+Muerth, M. J., Gauvin St-Denis, B., Ricard, S., Velázquez, 
+J. A., Schmid, J., Minville, M., Caya, D., 
+Chaumont, D., Ludwig, R., & Turcotte, R. (2013). 
+On the need for bias correction in regional 
+climate scenarios to assess climate change 
+impacts on river runoff. Hydrology and Earth 
+System 
+Sciences, 
+17(3), 
+1189–1204. 
+https://doi.org/10.5194/hess-17-1189-2013 
+Palazzoli, I., Maskey, S., Uhlenbrook, S., Nana, E., & 
+Bocchiola, D. (2015). Impact of prospective 
+climate change on water resources and crop 
+yields in the Indrawati basin, Nepal. Agricultural 
+Systems, 133, 143–157. 
+Pandey, V. P., Dhaubanjar, S., Bharati, L., & Thapa, B. R. 
+(2020). Spatio-temporal distribution of water 
+availability in Karnali-Mohana Basin, Western 
+Nepal: Climate change impact assessment (Part
+B). Journal of Hydrology: Regional Studies, 29, 
+100691. 
+Qian, W., & Chang, H. H. (2021). Projecting Health 
+Impacts of Future Temperature: A Comparison of 
+Quantile-Mapping Bias-Correction Methods. 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+211 
+Impacts of Climate Change on Temperature and Precipitation in Nepal: Projections and Bias Correction 
+Public 
+International Journal of Environmental Research 
+and 
+Health, 
+18(4), 
+1992. 
+https://doi.org/10.3390/ijerph18041992 
+Sheffield, J., Goteti, G., & Wood, E. F. (2006). 
+Development of a 50-Year High-Resolution 
+Global Dataset of Meteorological Forcings for 
+Land Surface Modeling. Journal of Climate, 
+19(13), 
+3088–3111. 
+https://doi.org/10.1175/JCLI3790.1 
+Shrestha, S., Bajracharya, A. R., & Babel, M. S. (2016). 
+Assessment of risks due to climate change for the 
+Upper Tamakoshi Hydropower Project in Nepal. 
+Climate Risk Management, 14, 27–41. 
+Shrestha, S., Shrestha, M., & Babel, Mukand. S. (2016). 
+Modelling the potential impacts of climate 
+change on hydrology and water resources in the 
+Indrawati River Basin, Nepal. Environmental 
+Earth 
+Sciences, 
+75(4), 
+280. 
+https://doi.org/10.1007/s12665-015-5150-8 
+Talchabhadel, R., & Karki, R. (2019). Assessing climate 
+boundary shifting under climate change scenarios 
+across Nepal. Environmental Monitoring and 
+Assessment, 
+191(8), 
+520. 
+https://doi.org/10.1007/s10661-019-7644-4 
+Tebaldi, C., & Knutti, R. (2007). The use of the multi
+model ensemble in probabilistic climate 
+projections. Philosophical Transactions of the 
+Royal Society A: Mathematical, Physical and 
+Engineering Sciences, 365(1857), 2053–2075. 
+https://doi.org/10.1098/rsta.2007.2076 
+Teutschbein, C., & Seibert, J. (2012). Bias correction of 
+regional 
+climate 
+model simulations for 
+hydrological climate-change impact studies: 
+Review and evaluation of different methods. 
+Journal 
+of 
+Hydrology, 456–457, 12–29. 
+https://doi.org/10.1016/j.jhydrol.2012.05.052 
+Timilsina, A., Talchabhadel, R., & Pandey, V. P. (2021). 
+Rising Temperature Trends across the Narayani 
+River Basin in Central Nepal Projected by 
+CMIP6 Models. Proceedings of 10th IOE 
+Graduate Conference. Institute of Engineering, 
+Tribhuvan University, Nepal, 266–278 
+Zollo, A. L., Rianna, G., Mercogliano, P., Tommasi, P., & 
+Comegna, L. (2014). Validation of a Simulation 
+Chain to Assess Climate Change Impact on 
+Precipitation Induced Landslides. In K. Sassa, P. 
+Canuti, & Y. Yin (Eds.), Landslide Science for a 
+Safer Geoenvironment, 287–292. Springer 
+International 
+Publishing. 
+https://doi.org/10.1007/978-3-319-04999-1_39. 
+© The Author(s) 2023. JOSEM is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
+Journal of Sustainability and Environmental Management (JOSEM)                                                                                                                  
+212 
+View publication stats
