@@ -105,3 +105,17 @@ else:
             st.error(f"❌ Error loading page `{st.session_state.page}`: {str(e)}")
     else:
         st.info(f"ℹ️ Page `{st.session_state.page}` is a placeholder. Content coming soon.")
+
+# --- Footer ---
+st.markdown("---")
+st.markdown(
+    """
+    <div style="text-align: center;">
+        Developed by <strong>Pratik Tamrakar</strong>  
+        <br>
+        🔗 <a href="https://www.linkedin.com/in/pratik-tamrakar-a2272a153/" target="_blank">LinkedIn</a> |
+        💻 <a href="https://github.com/hyperactive91" target="_blank">GitHub</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
