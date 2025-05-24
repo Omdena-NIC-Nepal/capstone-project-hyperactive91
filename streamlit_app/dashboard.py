@@ -84,15 +84,15 @@ if selected_main != "Select...":
 # --- Main Page Content ---
 if st.session_state.page == "My Dashboard":
     st.write("""  
-    ### 🌦️ Climate/weather Prediction Application 
+    ### 🌦️ Climate change Prediction Application 
  
     Navigate through the sections using the sidebar.  
 
     **Key Features:**
     - Exploratory data analysis
     - Model Training
-    - Climate/weather Predictions
-    - Sentiment analysis and chat bot
+    - District wise highheat, drought, glacier melting and average temperature prediction
+    - Sentiment analysis and summarization using NLP
     """)
     st.markdown("---")
     st.warning("⚠️ Notice : If the page is not redirected properly, kindly refresh the browser.")
