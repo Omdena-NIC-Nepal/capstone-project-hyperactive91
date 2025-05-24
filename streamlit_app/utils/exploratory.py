@@ -76,18 +76,7 @@ def plot_avgprecip_bydistrict(df):
     plt.xlabel('rainfall in mm')
     return fig
 
-def plot_actual_vs_predicted(y_test, ypred):
-    """
-    plot model regression 
-    """
-    fig, ax = plt.subplots(figsize = (10, 6))
-    ax.scatter(y_test, ypred, alpha=0.7)
-    ax.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], 'r--')
-    ax.set_xlabel("Actual Temperature in Celcius")
-    ax.set_ylabel("Predicted Temperature in Celcius")
-    ax.set_title("Actual vs Predicted Temperatures")
-    
-    return fig
+
 
 def plot_by_seasons(df):
     # Parse date and extract month

@@ -40,10 +40,7 @@ def show_analysis(df):
     fig = plot_by_seasons(df)
     st.pyplot(fig)
 
-    # Box plot
-    st.subheader("Box plot for outliers")
-    fig = plot_boxplot(df)
-    st.pyplot(fig)
+    
 
     
 
