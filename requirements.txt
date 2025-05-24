@@ -17,3 +17,4 @@ textblob
 summa
 plotly
 pathlib
+streamlit
