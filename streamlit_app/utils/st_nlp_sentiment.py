@@ -4,70 +4,73 @@ import streamlit as st
 import pandas as pd
 from textblob import TextBlob
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
-from nltk.tokenize import sent_tokenize
 import nltk
 
-# Setup local NLTK data folder
-NLTK_DATA_DIR = os.path.join(os.getcwd(), 'nltk_data')
-os.makedirs(NLTK_DATA_DIR, exist_ok=True)
-nltk.data.path.append(NLTK_DATA_DIR)
+# Download VADER lexicon
+nltk.download('vader_lexicon')
 
-# Download necessary NLTK data if missing
-def download_nltk_resources():
-    try:
-        nltk.data.find('tokenizers/punkt')
-    except LookupError:
-        nltk.download('punkt', download_dir=NLTK_DATA_DIR)
-    try:
-        nltk.data.find('sentiment/vader_lexicon.zip')
-    except LookupError:
-        nltk.download('vader_lexicon', download_dir=NLTK_DATA_DIR)
-
-download_nltk_resources()
-
-# Initialize logging and VADER analyzer
+# Initialize logging
 logging.basicConfig(level=logging.INFO)
+
+# Initialize VADER analyzer
 vader_analyzer = SentimentIntensityAnalyzer()
 
+# --- CONFIGURATION ---
 ARTICLE_DIR = os.path.join("data", "articles")
 
+# Load article files from folder
 def get_article_files(article_dir):
     try:
-        return [f for f in os.listdir(article_dir) if f.endswith(('.txt', '.csv', '.json'))]
+        files = [f for f in os.listdir(article_dir) if f.endswith(('.txt', '.csv', '.json'))]
+        return files
     except Exception as e:
         logging.error(f"Failed to read article folder: {e}")
         return []
 
-def analyze_text(text):
-    # TextBlob analysis
-    blob_sentiment = TextBlob(text).sentiment
-    # VADER analysis
+# Extract sentiment scores
+def extract_sentiment_scores(model_dict):
+    try:
+        if isinstance(model_dict, dict) and 'textblob' in model_dict and 'vader' in model_dict:
+            textblob = model_dict.get("textblob", {})
+            vader = model_dict.get("vader", {})
+            return {
+                "textblob": {
+                    "polarity": textblob.get("polarity", 0.0),
+                    "subjectivity": textblob.get("subjectivity", 0.0)
+                },
+                "vader": {
+                    "neg": vader.get("neg", 0.0),
+                    "neu": vader.get("neu", 1.0),
+                    "pos": vader.get("pos", 0.0),
+                    "compound": vader.get("compound", 0.0)
+                }
+            }
+    except Exception as e:
+        logging.error(f"Error extracting sentiment: {e}")
+    return None
+
+# Sentiment analysis using TextBlob and VADER
+def analyze_with_textblob(text):
+    blob = TextBlob(text).sentiment
     vader_scores = vader_analyzer.polarity_scores(text)
+
     return {
         "textblob": {
-            "polarity": blob_sentiment.polarity,
-            "subjectivity": blob_sentiment.subjectivity
+            "polarity": blob.polarity,
+            "subjectivity": blob.subjectivity
         },
-        "vader": vader_scores
+        "vader": {
+            "neg": vader_scores["neg"],
+            "neu": vader_scores["neu"],
+            "pos": vader_scores["pos"],
+            "compound": vader_scores["compound"]
+        }
     }
 
-def analyze_sentences(text):
-    # Sentence tokenize using official punkt tokenizer ONLY
-    sentences = sent_tokenize(text)
-    results = []
-    for s in sentences:
-        scores = vader_analyzer.polarity_scores(s)
-        results.append({
-            "sentence": s,
-            "neg": scores["neg"],
-            "neu": scores["neu"],
-            "pos": scores["pos"],
-            "compound": scores["compound"]
-        })
-    return results
+# Render results as table
+def render_sentiment_table(scores: dict):
+    st.markdown("### Sentiment Scores")
 
-def render_sentiment_table(scores):
-    st.markdown("### Overall Sentiment Scores")
     data = {
         "Metric": [
             "TextBlob Polarity", "TextBlob Subjectivity",
@@ -82,57 +85,81 @@ def render_sentiment_table(scores):
             round(scores['vader']['compound'], 2)
         ]
     }
+
     df = pd.DataFrame(data)
     df.insert(0, "SN", range(1, len(df) + 1))
-    st.table(df)
 
-def render_sentence_breakdown(results):
-    st.markdown("### Sentence-wise VADER Scores")
-    df = pd.DataFrame(results)
-    st.dataframe(df)
+    styled_table = df.to_html(index=False, classes='centered-table')
 
+    st.markdown(
+        """
+        <style>
+        .centered-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .centered-table th, .centered-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .centered-table th {
+            background-color: #f2f2f2;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.markdown(styled_table, unsafe_allow_html=True)
+
+# Analyze live input
 def display_live_input_analysis():
     st.subheader("Analyze Text Input")
-    user_text = st.text_area("Enter your text here", height=200)
+    article_text = st.text_area("Enter text below", height=200)
+
     if st.button("Analyze"):
-        if user_text.strip():
-            scores = analyze_text(user_text)
-            render_sentiment_table(scores)
-            sentence_scores = analyze_sentences(user_text)
-            render_sentence_breakdown(sentence_scores)
+        if article_text.strip():
+            result = analyze_with_textblob(article_text)
+            render_sentiment_table(result)
         else:
             st.warning("Please enter some text.")
 
+# Analyze articles from directory
 def display_preloaded_sentiment():
     st.subheader("Analyze Article Files")
-    files = get_article_files(ARTICLE_DIR)
-    if not files:
+
+    article_files = get_article_files(ARTICLE_DIR)
+    if not article_files:
         st.warning("No article files found.")
         return
-    selected = st.selectbox("Select a file", ["Select..."] + files)
-    if selected != "Select...":
-        path = os.path.join(ARTICLE_DIR, selected)
+
+    selected_file = st.selectbox("Choose a file:", ["Select..."] + article_files)
+
+    if selected_file != "Select...":
+        file_path = os.path.join(ARTICLE_DIR, selected_file)
         try:
-            with open(path, "r", encoding="utf-8") as f:
-                content = f.read()
-                scores = analyze_text(content)
-                st.markdown(f"Analyzing file: `{selected}`")
-                render_sentiment_table(scores)
-                sentence_scores = analyze_sentences(content)
-                render_sentence_breakdown(sentence_scores)
+            with open(file_path, "r", encoding="utf-8") as f:
+                article_text = f.read()
+                result = analyze_with_textblob(article_text)
+                st.markdown(f"Analyzing: `{selected_file}`")
+                render_sentiment_table(result)
         except Exception as e:
-            st.error(f"Failed to read file `{selected}`: {e}")
+            st.error(f"Error reading file `{selected_file}`: {e}")
     else:
         st.info("Please select a file.")
 
+# Main app
 def main():
     st.title("NLP Sentiment Analyzer")
     st.subheader("Select Input Method")
-    mode = st.radio("Choose input method:", ["User Input", "Preloaded Files"])
+    mode = st.radio("Choose an option:", ["User Input", "Files"])
+
     if mode == "User Input":
         display_live_input_analysis()
     else:
         display_preloaded_sentiment()
 
+# Run the app
 if __name__ == "__main__":
     main()
