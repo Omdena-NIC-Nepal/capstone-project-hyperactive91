@@ -7,9 +7,16 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from nltk import sent_tokenize
 import nltk
 
-# Download resources
-nltk.download('vader_lexicon')
-nltk.download('punkt')
+# Safe NLTK downloads
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt')
+
+try:
+    nltk.data.find('sentiment/vader_lexicon.zip')
+except LookupError:
+    nltk.download('vader_lexicon')
 
 # Initialize
 logging.basicConfig(level=logging.INFO)
@@ -18,7 +25,7 @@ vader_analyzer = SentimentIntensityAnalyzer()
 # --- CONFIG ---
 ARTICLE_DIR = os.path.join("data", "articles")
 
-# Load articles from folder
+# Load article filenames
 def get_article_files(article_dir):
     try:
         return [f for f in os.listdir(article_dir) if f.endswith(('.txt', '.csv', '.json'))]
@@ -26,7 +33,7 @@ def get_article_files(article_dir):
         logging.error(f"Failed to read article folder: {e}")
         return []
 
-# Full sentiment analysis
+# Analyze with TextBlob + VADER
 def analyze_text(text):
     blob = TextBlob(text).sentiment
     vader = vader_analyzer.polarity_scores(text)
@@ -39,11 +46,10 @@ def analyze_text(text):
         "vader": vader
     }
 
-# Sentence-wise VADER analysis
+# Sentence-wise VADER
 def analyze_by_sentence(text):
     sentences = sent_tokenize(text)
     results = []
-
     for sent in sentences:
         scores = vader_analyzer.polarity_scores(sent)
         results.append({
@@ -55,7 +61,7 @@ def analyze_by_sentence(text):
         })
     return results
 
-# Render sentiment score table
+# Display overall scores
 def render_sentiment_table(scores):
     st.markdown("### Overall Sentiment Scores")
     data = {
@@ -76,13 +82,13 @@ def render_sentiment_table(scores):
     df.insert(0, "SN", range(1, len(df)+1))
     st.table(df)
 
-# Render sentence-level breakdown
+# Display sentence-wise breakdown
 def render_sentence_breakdown(results):
-    st.markdown("### Sentence-wise VADER Breakdown")
+    st.markdown("### Sentence-wise VADER Scores")
     df = pd.DataFrame(results)
     st.dataframe(df)
 
-# Analyze custom input
+# Analyze user input
 def display_live_input_analysis():
     st.subheader("Analyze Text Input")
     article_text = st.text_area("Enter your text below", height=200)
@@ -97,7 +103,7 @@ def display_live_input_analysis():
         else:
             st.warning("Please enter some text.")
 
-# Analyze preloaded files
+# Analyze from preloaded files
 def display_preloaded_sentiment():
     st.subheader("Analyze Article Files")
     files = get_article_files(ARTICLE_DIR)
@@ -123,11 +129,11 @@ def display_preloaded_sentiment():
     else:
         st.info("Please select a file.")
 
-# Main
+# Main app
 def main():
-    st.title("🧠 NLP Sentiment Analyzer")
-    st.subheader("Choose Input Method")
-    mode = st.radio("Select:", ["User Input", "Preloaded Files"])
+    st.title("NLP Sentiment Analyzer")
+    st.subheader("Your input choice : ")
+    mode = st.radio("Choose an option:", ["User Input", "Saved Files"])
 
     if mode == "User Input":
         display_live_input_analysis()
