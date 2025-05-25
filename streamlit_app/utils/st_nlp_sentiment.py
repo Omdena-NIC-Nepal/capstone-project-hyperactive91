@@ -1,11 +1,19 @@
 import os
 import logging
 import streamlit as st
-from textblob import TextBlob
 import pandas as pd
+from textblob import TextBlob
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import nltk
+
+# Download VADER lexicon
+nltk.download('vader_lexicon')
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO)
+
+# Initialize VADER analyzer
+vader_analyzer = SentimentIntensityAnalyzer()
 
 # --- CONFIGURATION ---
 ARTICLE_DIR = os.path.join("data", "articles")
@@ -41,16 +49,21 @@ def extract_sentiment_scores(model_dict):
         logging.error(f"Error extracting sentiment: {e}")
     return None
 
-# Fallback sentiment analysis using TextBlob
+# Sentiment analysis using TextBlob and VADER
 def analyze_with_textblob(text):
     blob = TextBlob(text).sentiment
+    vader_scores = vader_analyzer.polarity_scores(text)
+
     return {
         "textblob": {
             "polarity": blob.polarity,
             "subjectivity": blob.subjectivity
         },
         "vader": {
-            "neg": 0.0, "neu": 1.0, "pos": 0.0, "compound": 0.0
+            "neg": vader_scores["neg"],
+            "neu": vader_scores["neu"],
+            "pos": vader_scores["pos"],
+            "compound": vader_scores["compound"]
         }
     }
 
