@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_09f46309ca16f726f861aac2f5ca1b78 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_09f46309ca16f726f861aac2f5ca1b78" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_09f46309ca16f726f861aac2f5ca1b78 = L.map(
+                "map_09f46309ca16f726f861aac2f5ca1b78",
+                {
+                    center: [28.3, 84.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 7,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_be5de40fe9879273678ec4660fa4ccaf = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_be5de40fe9879273678ec4660fa4ccaf.addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            var circle_marker_def98c36d7f1156e6f1d882c2d155d45 = L.circleMarker(
+                [27.90832488661885, 83.0812087156592],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_def98c36d7f1156e6f1d882c2d155d45.bindTooltip(
+                `<div>
+                     <b>Arghakhanchi</b><br>Total Yield: 5943.0 kg/ha<br>Avg Temp: 23.15 °C<br>Precipitation: 1336.6 mm<br>Heatwave Days: 38
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_88e58e4e1a1ca75d8fe3f83b1541a61b = L.circleMarker(
+                [28.347398727833692, 83.25275645604016],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_88e58e4e1a1ca75d8fe3f83b1541a61b.bindTooltip(
+                `<div>
+                     <b>Baglung</b><br>Total Yield: 7434.0 kg/ha<br>Avg Temp: 14.45 °C<br>Precipitation: 1106.8 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_30fee714cc584cb204527260a02d490c = L.circleMarker(
+                [29.50751398233785, 80.5729982005204],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_30fee714cc584cb204527260a02d490c.bindTooltip(
+                `<div>
+                     <b>Baitadi</b><br>Total Yield: 5587.0 kg/ha<br>Avg Temp: 10.44 °C<br>Precipitation: 939.5 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1a0f0914cfaedf1942ac69d7fd9ab259 = L.circleMarker(
+                [28.08702022712493, 81.82413845891203],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_1a0f0914cfaedf1942ac69d7fd9ab259.bindTooltip(
+                `<div>
+                     <b>Banke</b><br>Total Yield: 8318.0 kg/ha<br>Avg Temp: 22.65 °C<br>Precipitation: 1271.8 mm<br>Heatwave Days: 33
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7ac953c9b83bcab3ad1ecb2177bcf76e = L.circleMarker(
+                [27.107531729249917, 85.07283333946937],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_7ac953c9b83bcab3ad1ecb2177bcf76e.bindTooltip(
+                `<div>
+                     <b>Bara</b><br>Total Yield: 9341.0 kg/ha<br>Avg Temp: 24.10 °C<br>Precipitation: 1117.2 mm<br>Heatwave Days: 40
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3eb5ccf497efb19d7cce9b331bf33e08 = L.circleMarker(
+                [28.38349792886107, 81.40329132372757],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_3eb5ccf497efb19d7cce9b331bf33e08.bindTooltip(
+                `<div>
+                     <b>Bardiya</b><br>Total Yield: 4052.0 kg/ha<br>Avg Temp: 24.09 °C<br>Precipitation: 1266.1 mm<br>Heatwave Days: 74
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_02f2e2e78e8d76460ca57b7d464744e1 = L.circleMarker(
+                [27.677425751331167, 85.4430455722004],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_02f2e2e78e8d76460ca57b7d464744e1.bindTooltip(
+                `<div>
+                     <b>Bhaktapur</b><br>Total Yield: 11489.0 kg/ha<br>Avg Temp: 13.39 °C<br>Precipitation: 916.6 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0cec5e69bd8b84dbec6610f9caea5d13 = L.circleMarker(
+                [29.223004690093955, 80.49049784235554],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_0cec5e69bd8b84dbec6610f9caea5d13.bindTooltip(
+                `<div>
+                     <b>Dadeldhura</b><br>Total Yield: 959.0 kg/ha<br>Avg Temp: 18.73 °C<br>Precipitation: 1307.1 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_556281bf2a0d5b6d894937ce163f2159 = L.circleMarker(
+                [28.881250919498704, 81.68071895667765],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_556281bf2a0d5b6d894937ce163f2159.bindTooltip(
+                `<div>
+                     <b>Dailekh</b><br>Total Yield: 7252.0 kg/ha<br>Avg Temp: 18.05 °C<br>Precipitation: 1284.9 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3578b35a5ff60c891b4acc780061b584 = L.circleMarker(
+                [27.968571856870625, 82.40436475207538],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_3578b35a5ff60c891b4acc780061b584.bindTooltip(
+                `<div>
+                     <b>Dang</b><br>Total Yield: 7540.0 kg/ha<br>Avg Temp: 19.11 °C<br>Precipitation: 1278.0 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d9cc6e3368d5c189ade876b2c9f082aa = L.circleMarker(
+                [29.94773884104155, 80.79265254535613],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_d9cc6e3368d5c189ade876b2c9f082aa.bindTooltip(
+                `<div>
+                     <b>Darchula</b><br>Total Yield: 3018.0 kg/ha<br>Avg Temp: 10.44 °C<br>Precipitation: 939.5 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1bc4ca11a93522f12261553eee03ea74 = L.circleMarker(
+                [27.954209979452887, 84.96217531415405],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_1bc4ca11a93522f12261553eee03ea74.bindTooltip(
+                `<div>
+                     <b>Dhading</b><br>Total Yield: 6643.0 kg/ha<br>Avg Temp: 17.35 °C<br>Precipitation: 1006.4 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f1186d42f8b8c2b488ec00932b678cb3 = L.circleMarker(
+                [26.99053723636817, 87.33347698881371],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_f1186d42f8b8c2b488ec00932b678cb3.bindTooltip(
+                `<div>
+                     <b>Dhankuta</b><br>Total Yield: 6768.0 kg/ha<br>Avg Temp: 15.62 °C<br>Precipitation: 1159.9 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9488c01212a371e6ba56b96653b9b918 = L.circleMarker(
+                [29.170400912440673, 83.0541845818953],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_9488c01212a371e6ba56b96653b9b918.bindTooltip(
+                `<div>
+                     <b>Dolpa</b><br>Total Yield: 7501.0 kg/ha<br>Avg Temp: 1.73 °C<br>Precipitation: 882.3 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_89cd8b535ef9752cebb3259c842e5af2 = L.circleMarker(
+                [29.169485330465207, 80.89612824926395],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_89cd8b535ef9752cebb3259c842e5af2.bindTooltip(
+                `<div>
+                     <b>Doti</b><br>Total Yield: 6528.0 kg/ha<br>Avg Temp: 17.34 °C<br>Precipitation: 1180.7 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_cc5792fcbe730a8c673c47b58ed25a65 = L.circleMarker(
+                [28.31820607880836, 84.79205951810734],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_cc5792fcbe730a8c673c47b58ed25a65.bindTooltip(
+                `<div>
+                     <b>Gorkha</b><br>Total Yield: 6778.0 kg/ha<br>Avg Temp: 10.60 °C<br>Precipitation: 865.1 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f5262644b676c9bd792904291a996f9a = L.circleMarker(
+                [28.09373670355513, 83.30910512283926],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_f5262644b676c9bd792904291a996f9a.bindTooltip(
+                `<div>
+                     <b>Gulmi</b><br>Total Yield: 6067.0 kg/ha<br>Avg Temp: 15.03 °C<br>Precipitation: 1233.8 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2c4ca01879042a98abb0bf3843eb223d = L.circleMarker(
+                [30.032332719793608, 81.88200356307125],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_2c4ca01879042a98abb0bf3843eb223d.bindTooltip(
+                `<div>
+                     <b>Humla</b><br>Total Yield: 759.0 kg/ha<br>Avg Temp: -2.10 °C<br>Precipitation: 428.4 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_41b59a53ffd64654f65943fd777c42e5 = L.circleMarker(
+                [26.88075841070909, 87.90410269633776],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_41b59a53ffd64654f65943fd777c42e5.bindTooltip(
+                `<div>
+                     <b>Ilam</b><br>Total Yield: 8328.0 kg/ha<br>Avg Temp: 21.77 °C<br>Precipitation: 1937.5 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6dc8dc85e5256cff2988fd660753e7dd = L.circleMarker(
+                [26.584140961205154, 87.91575445056105],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_6dc8dc85e5256cff2988fd660753e7dd.bindTooltip(
+                `<div>
+                     <b>Jhapa</b><br>Total Yield: 7933.0 kg/ha<br>Avg Temp: 21.97 °C<br>Precipitation: 1824.7 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_054fcf70ee6c5fd471b701e27c717e54 = L.circleMarker(
+                [29.27163493221768, 82.21897805905196],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_054fcf70ee6c5fd471b701e27c717e54.bindTooltip(
+                `<div>
+                     <b>Jumla</b><br>Total Yield: 3915.0 kg/ha<br>Avg Temp: 11.48 °C<br>Precipitation: 1029.9 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1f83330eee989efc01597df545752c28 = L.circleMarker(
+                [28.741560198320553, 80.88103524770403],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_1f83330eee989efc01597df545752c28.bindTooltip(
+                `<div>
+                     <b>Kailali</b><br>Total Yield: 6924.0 kg/ha<br>Avg Temp: 23.38 °C<br>Precipitation: 1397.8 mm<br>Heatwave Days: 65
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_93b4d7d40f14debff2b600b4ba1a9726 = L.circleMarker(
+                [28.861696216741603, 80.32347545174918],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_93b4d7d40f14debff2b600b4ba1a9726.bindTooltip(
+                `<div>
+                     <b>Kanchanpur</b><br>Total Yield: 2490.0 kg/ha<br>Avg Temp: 20.71 °C<br>Precipitation: 1570.0 mm<br>Heatwave Days: 12
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c62d7c625bd19c2ce4aa66199c477802 = L.circleMarker(
+                [28.354685024113564, 83.99948681259903],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_c62d7c625bd19c2ce4aa66199c477802.bindTooltip(
+                `<div>
+                     <b>Kaski</b><br>Total Yield: 7429.0 kg/ha<br>Avg Temp: 13.61 °C<br>Precipitation: 1001.9 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4228c4416d7c759fdf447e3f92da7666 = L.circleMarker(
+                [27.72794323418278, 85.34954914085557],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_4228c4416d7c759fdf447e3f92da7666.bindTooltip(
+                `<div>
+                     <b>Kathmandu</b><br>Total Yield: 10930.0 kg/ha<br>Avg Temp: 17.35 °C<br>Precipitation: 1006.4 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_31a75d6bced7d68976a17b68865a8bcd = L.circleMarker(
+                [27.53938067383556, 85.34494276000035],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_31a75d6bced7d68976a17b68865a8bcd.bindTooltip(
+                `<div>
+                     <b>Lalitpur</b><br>Total Yield: 10375.0 kg/ha<br>Avg Temp: 17.35 °C<br>Precipitation: 1006.4 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1af6eeb2c7e09e05e84f175083a7bcdd = L.circleMarker(
+                [28.289081276778735, 84.43214712377852],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_1af6eeb2c7e09e05e84f175083a7bcdd.bindTooltip(
+                `<div>
+                     <b>Lamjung</b><br>Total Yield: 6299.0 kg/ha<br>Avg Temp: 13.18 °C<br>Precipitation: 949.5 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_145ade28a5ff98b990282075475af14c = L.circleMarker(
+                [26.878627841564136, 85.82218445207478],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_145ade28a5ff98b990282075475af14c.bindTooltip(
+                `<div>
+                     <b>Mahottari</b><br>Total Yield: 7519.0 kg/ha<br>Avg Temp: 25.44 °C<br>Precipitation: 1027.4 mm<br>Heatwave Days: 69
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b860bd9aa4bc33ac97e27fe31330db28 = L.circleMarker(
+                [28.67278765821132, 84.22668823948811],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_b860bd9aa4bc33ac97e27fe31330db28.bindTooltip(
+                `<div>
+                     <b>Manang</b><br>Total Yield: 4998.0 kg/ha<br>Avg Temp: 1.68 °C<br>Precipitation: 717.0 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2927cf0a615304dc65fbd204624be4bb = L.circleMarker(
+                [26.616986302625087, 87.47265318923002],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_2927cf0a615304dc65fbd204624be4bb.bindTooltip(
+                `<div>
+                     <b>Morang</b><br>Total Yield: 8479.0 kg/ha<br>Avg Temp: 22.71 °C<br>Precipitation: 1460.4 mm<br>Heatwave Days: 4
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ea780c6a3810bc88c6247ee6fca138ea = L.circleMarker(
+                [29.61816305909249, 82.3720867823969],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_ea780c6a3810bc88c6247ee6fca138ea.bindTooltip(
+                `<div>
+                     <b>Mugu</b><br>Total Yield: 11586.0 kg/ha<br>Avg Temp: 0.94 °C<br>Precipitation: 676.3 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_da443ecebab83061e3155bb83007750e = L.circleMarker(
+                [28.98100245071527, 83.85962961287854],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_da443ecebab83061e3155bb83007750e.bindTooltip(
+                `<div>
+                     <b>Mustang</b><br>Total Yield: 3342.0 kg/ha<br>Avg Temp: 2.80 °C<br>Precipitation: 844.1 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e03dff43855acc20b2bd807024aa6568 = L.circleMarker(
+                [28.553016411836424, 83.46202515536136],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_e03dff43855acc20b2bd807024aa6568.bindTooltip(
+                `<div>
+                     <b>Myagdi</b><br>Total Yield: 7598.0 kg/ha<br>Avg Temp: 14.45 °C<br>Precipitation: 1106.8 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e0cd77e06079a75c087f47cda2fa3e8b = L.circleMarker(
+                [27.914854629013696, 85.23759247584084],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_e0cd77e06079a75c087f47cda2fa3e8b.bindTooltip(
+                `<div>
+                     <b>Nuwakot</b><br>Total Yield: 8709.0 kg/ha<br>Avg Temp: 17.35 °C<br>Precipitation: 1006.4 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9430aae6dbea88dac6ecbbac0534d14b = L.circleMarker(
+                [27.329176941965382, 86.42108379806545],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_9430aae6dbea88dac6ecbbac0534d14b.bindTooltip(
+                `<div>
+                     <b>Okhaldhunga</b><br>Total Yield: 5876.0 kg/ha<br>Avg Temp: 16.26 °C<br>Precipitation: 952.0 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_023e3c326d0e88d83542b5e7d146ea75 = L.circleMarker(
+                [27.81726364010277, 83.62564119524235],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_023e3c326d0e88d83542b5e7d146ea75.bindTooltip(
+                `<div>
+                     <b>Palpa</b><br>Total Yield: 6757.0 kg/ha<br>Avg Temp: 22.78 °C<br>Precipitation: 1284.1 mm<br>Heatwave Days: 27
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4b3470baf7bb8b19586b245e4d88bbf3 = L.circleMarker(
+                [28.211018814970668, 83.6809141844704],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_4b3470baf7bb8b19586b245e4d88bbf3.bindTooltip(
+                `<div>
+                     <b>Parbat</b><br>Total Yield: 6647.0 kg/ha<br>Avg Temp: 14.45 °C<br>Precipitation: 1106.8 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fd528110c3a8a2c3610f63ee5306e19c = L.circleMarker(
+                [28.183053264340263, 85.41805922931998],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_fd528110c3a8a2c3610f63ee5306e19c.bindTooltip(
+                `<div>
+                     <b>Rasuwa</b><br>Total Yield: 5620.0 kg/ha<br>Avg Temp: 6.99 °C<br>Precipitation: 798.7 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d26c8299be58d51b24004c3863fea368 = L.circleMarker(
+                [27.57638017435037, 83.3914927043737],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_d26c8299be58d51b24004c3863fea368.bindTooltip(
+                `<div>
+                     <b>Rupandehi</b><br>Total Yield: 10268.0 kg/ha<br>Avg Temp: 22.90 °C<br>Precipitation: 1301.6 mm<br>Heatwave Days: 32
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_609bac864da3d9158e82d59c6542b475 = L.circleMarker(
+                [28.401757239164414, 82.14542863337584],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_609bac864da3d9158e82d59c6542b475.bindTooltip(
+                `<div>
+                     <b>Salyan</b><br>Total Yield: 6465.0 kg/ha<br>Avg Temp: 20.70 °C<br>Precipitation: 1278.7 mm<br>Heatwave Days: 1
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7b6e50d63c60debb1725cc5121b0598b = L.circleMarker(
+                [27.581621861916684, 87.28077211772046],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_7b6e50d63c60debb1725cc5121b0598b.bindTooltip(
+                `<div>
+                     <b>Sankhuwasabha</b><br>Total Yield: 5929.0 kg/ha<br>Avg Temp: 15.62 °C<br>Precipitation: 1159.9 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_61652a083b98116948038fe975469836 = L.circleMarker(
+                [26.597754606125637, 86.74855147112957],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_61652a083b98116948038fe975469836.bindTooltip(
+                `<div>
+                     <b>Saptari</b><br>Total Yield: 7500.0 kg/ha<br>Avg Temp: 23.55 °C<br>Precipitation: 1101.9 mm<br>Heatwave Days: 15
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0f98a76c323a3758bb37093c482ebad6 = L.circleMarker(
+                [26.985777541302504, 85.56745240599422],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_0f98a76c323a3758bb37093c482ebad6.bindTooltip(
+                `<div>
+                     <b>Sarlahi</b><br>Total Yield: 6930.0 kg/ha<br>Avg Temp: 23.75 °C<br>Precipitation: 1043.2 mm<br>Heatwave Days: 30
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_56a4430312c48d57825deb144f69bbb1 = L.circleMarker(
+                [27.20128738212906, 85.9463490250372],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_56a4430312c48d57825deb144f69bbb1.bindTooltip(
+                `<div>
+                     <b>Sindhuli</b><br>Total Yield: 6879.0 kg/ha<br>Avg Temp: 21.60 °C<br>Precipitation: 1036.3 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f04c849539e30e3a0614358ec5b5567f = L.circleMarker(
+                [27.70997776882927, 86.72287209426173],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_f04c849539e30e3a0614358ec5b5567f.bindTooltip(
+                `<div>
+                     <b>Solukhumbu</b><br>Total Yield: 6400.0 kg/ha<br>Avg Temp: -2.06 °C<br>Precipitation: 542.9 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bc5f916312f90fccea6e99fa32eddd64 = L.circleMarker(
+                [26.65013879844651, 87.1724559297716],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_bc5f916312f90fccea6e99fa32eddd64.bindTooltip(
+                `<div>
+                     <b>Sunsari</b><br>Total Yield: 8135.0 kg/ha<br>Avg Temp: 22.71 °C<br>Precipitation: 1460.4 mm<br>Heatwave Days: 4
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_019427fccec909e708d5006143bccc6c = L.circleMarker(
+                [28.64120701004022, 81.58859621262992],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_019427fccec909e708d5006143bccc6c.bindTooltip(
+                `<div>
+                     <b>Surkhet</b><br>Total Yield: 1894.0 kg/ha<br>Avg Temp: 20.35 °C<br>Precipitation: 1273.5 mm<br>Heatwave Days: 2
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_dd9edd6d40f968a82da5437c2bba9da6 = L.circleMarker(
+                [28.02088124526134, 83.80520107164068],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_dd9edd6d40f968a82da5437c2bba9da6.bindTooltip(
+                `<div>
+                     <b>Syangja</b><br>Total Yield: 8165.0 kg/ha<br>Avg Temp: 18.61 °C<br>Precipitation: 1195.4 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5b783d9ffbbaba9b1aa2411ae7c56def = L.circleMarker(
+                [27.58166753781381, 87.82416047755234],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_5b783d9ffbbaba9b1aa2411ae7c56def.bindTooltip(
+                `<div>
+                     <b>Taplejung</b><br>Total Yield: 6428.0 kg/ha<br>Avg Temp: 14.22 °C<br>Precipitation: 1396.2 mm<br>Heatwave Days: 0
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_64eae7154fa71922a9c70b2361c67ba1 = L.circleMarker(
+                [26.902784420702172, 86.68399011335386],
+                {"bubblingMouseEvents": true, "color": "crimson", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "crimson", "fillOpacity": 0.75, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_09f46309ca16f726f861aac2f5ca1b78);
+        
+    
+            circle_marker_64eae7154fa71922a9c70b2361c67ba1.bindTooltip(
+                `<div>
+                     <b>Udayapur</b><br>Total Yield: 7195.0 kg/ha<br>Avg Temp: 23.55 °C<br>Precipitation: 1101.9 mm<br>Heatwave Days: 15
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
